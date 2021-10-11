@@ -360,3 +360,103 @@ passive_mag_mastery	357		1	12											1211	431		8	0	9	50																						
 passive_mag_pierce	358		1	9												2812		8	0	8	0																														0
 skill_cooldown	359			32	16																																														0
 skill_missile_damage_scale	360			32	16																																														0
+item_strength_percent	359			16											32093	204	1024		6	10	10	90			11			strength											58	4	2	ModStr1a1	ModStr1a11		4	16		StrModAttrP	StrModAttrN			0
+item_dexterity_percent	360			16											32093	204	1024		6	10	10	90			11			dexterity											58	4	2	ModStr1d1	ModStr1d11		4	16		StrModAttrP	StrModAttrN			0
+item_vitality_percent	361			16											32093	204	1024		6	10	10	90			11			vitality											58	4	2	ModStr1b1	ModStr1b11		4	16		StrModAttrP	StrModAttrN			0
+item_energy_percent	362			16											32093	204	1024		6	10	19	90			11			energy											58	4	2	ModStr1c1	ModStr1c11		4	16		StrModAttrP	StrModAttrN			0
+item_strengthpercent_perlevel	363		1	6											132	128	1024		6	0	6	0			2	3	level	strength											66	8	2	ModStr1a1	ModStr1a1	increaseswithplaylevelX								0
+item_dexteritypercent_perlevel	364		1	6											132	128	1024		6	0	6	0			2	3	level	dexterity											64	8	2	ModStr1b1	ModStr1b1	increaseswithplaylevelX								0
+item_energypercent_perlevel	365		1	6											105	128	1024		6	0	6	0			2	3	level	energy											60	8	2	ModStr1d1	ModStr1d1	increaseswithplaylevelX								0
+item_vitalitypercent_perlevel	366		1	6											105	128	1024		6	0	6	0			2	3	level	vitality											62	8	2	ModStr1c1	ModStr1c1	increaseswithplaylevelX								0
+item_attackergetsblind	367		1	16							1				112	128	1024		7	0	7	0													damagedinmelee	9			13	2	1	ModStrblinded	ModStrblinded									0
+item_attackerflees	368		1	16							1				112	128	1024		7	0	7	0													damagedinmelee	8			13	2	1	ModStrfear	ModStrfear									0
+item_attackertakesfiredamage	369		1	6							1				4	102	1024		5	0	10	0													damagedinmelee	11			14	3	2	ModStrfirethorns	ModStrfirethorns									0
+item_attackertakescolddamage	370		1	6							1				4	102	1024		5	0	10	0													damagedinmelee	12			14	3	2	ModStrcoldthorns	ModStrcoldthorns									0
+item_maxdamage_perstr	371		1	6											54	204	1024		6	0	6	0			4	3	strength	maxdamage	secondary_maxdamage	item_throw_maxdamage				1					128	6	1	ModStr1f	ModStr2j	playstr								0
+item_maxdamage_perdex	372		1	6											54	204	1024		6	0	6	0			4	3	dexterity	maxdamage	secondary_maxdamage	item_throw_maxdamage				1					128	6	1	ModStr1f	ModStr2j	playdex								0
+item_mindamage_perlvl	373		1	6											54	204	1024		6	0	6	0			4	3	level	mindamage	secondary_mindamage	item_throw_mindamage				1					128	6	1	ModStr1g	ModStr1g	increaseswithplaylevelX								0
+item_mindamage_perstr	374		1	6											54	204	1024		6	0	6	0			4	3	strength	mindamage	secondary_mindamage	item_throw_mindamage				1					128	6	1	ModStr1g	ModStr1g	playstr								0
+item_mindamage_perdex	375		1	6											54	204	1024		6	0	6	0			4	3	dexterity	mindamage	secondary_mindamage	item_throw_mindamage				1					128	6	1	ModStr1g	ModStr1g	playdex								0
+item_maxdamage_percent_perstr	376		1	6											86	100	1024		6	0	6	0			5	4	strength	maxdamage	secondary_maxdamage	item_throw_maxdamage				1					128	8	1	ModStr2j	ModStr2j	playstr								0
+item_maxdamage_percent_perdex	377		1	6											86	100	1024		6	0	6	0			5	4	dexterity	maxdamage	secondary_maxdamage	item_throw_maxdamage				1					128	8	1	ModStr2j	ModStr2j	playdex								0
+item_openwounds_perdex	378		1	6											181	128	1024		6	0	6	0			2	5	dexterity	item_openwounds						1					82	7	1	ModStr3m	ModStr3m	playdex								0
+item_openwounds_perstr	379		1	6											181	128	1024		6	0	6	0			2	5	strength	item_openwounds						1					82	7	1	ModStr3m	ModStr3m	playstr								0
+item_deadlystrike_perdex	380		1	6											118	512	1024		6	0	6	0			2	5	dexterity	item_deadlystrike						1					84	7	1	ModStr5q	ModStr5q	playdex								0
+item_deadlystrike_perstr	381		1	6											118	512	1024		6	0	6	0			2	5	strength	item_deadlystrike						1					84	7	1	ModStr5q	ModStr5q	playstr								0
+item_armor_perstr	382		1	6											43	42	1024		6	0	6	0			4	3	strength	armorclass											72	6	1	ModStr1i	ModStr1i	playstr								0
+item_armor_perdex	383		1	6											43	42	1024		6	0	6	0			4	3	dexterity	armorclass											72	6	1	ModStr1i	ModStr1i	playdex								0
+item_tohit_perstr	384		1	6											53	20	1024		6	0	6	0			2	6	strength	tohit						1					114	6	1	ModStr1h	ModStr1h	playstr								0
+item_tohit_perDex	385		1	6											53	20	1024		6	0	6	0			2	6	dexterity	tohit						1					114	6	1	ModStr1h	ModStr1h	playdex								0
+item_hp_pervitality	386		1	6											92	64	1024	8	6	0	6	0			2	6	vitality	maxhp											57	6	1	ModStr1u	ModStr1u	playvit								0
+item_mana_perenr	387		1	6											90	128	1024	8	6	0	6	0			2	6	energy	maxmana											53	6	1	ModStr1e	ModStr1e	playenr								0
+item_fastercastrate_perenr	388	1	1	9											3876	156	1024		7	20	7	20			2	4	energy	item_fastercastrate											142	8	1	ModStr4v	ModStr4v	playenr								0
+item_fasterblockrate_perdex	389	1	1	9											1484	72	1024		7	20	7	20			2	4	dexterity	item_fasterblockrate											136	8	1	ModStr4y	ModStr4y	playdex								0
+item_fastermovevelocity_pervitality	390	1	1	9											4083	156	1024		7	20	7	20			2	4	vitality	item_fastermovevelocity											148	8	1	ModStr4s	ModStr4s	playvit								0
+item_fasterswingvelocity_perstrength	391	1	1	9											4083	156	1024		7	20	7	20			2	4	strength	item_fasterattackrate											148	8	1	ModStr4m	ModStr4m	playstr								0
+item_mindamage_percent_perstr	392		1	6											86	100	1024		6	0	6	0			5	4	strength	mindamage	secondary_mindamage	item_throw_maxdamage				1					128	8	1	ModStr2k	ModStr2k	playstr								0
+item_mindamage_percent_perdex	393		1	6											86	100	1024		6	0	6	0			5	4	dexterity	mindamage	secondary_mindamage	item_throw_maxdamage				1					128	8	1	ModStr2k	ModStr2k	playdex								0
+item_mindamage_percent_perlvl	394		1	6											86	100	1024		6	0	6	0			5	3	level	mindamage	secondary_mindamage	item_throw_maxdamage				1					128	8	1	ModStr2k	ModStr2k	increaseswithplaylevelX								0
+item_crushingblow_perstr	395		1	6											213	1024	1024		6	0	6	0			2	5	strength	item_crushingblow						1					86	7	1	ModStr5c	ModStr5c	playstr								0
+item_crushingblow_perdex	396		1	6											213	1024	1024		6	0	6	0			2	5	dexterity	item_crushingblow						1					86	7	1	ModStr5c	ModStr5c	playdex								0
+item_elemskillcold	397		1	3	3						1				76	1024	1024		4	0	3	0	3																157	1	1	ModStrcoldskill	ModStrcoldskill									0
+item_elemskilllight	398		1	3	3						1				76	1024	1024		4	0	3	0	3																157	1	1	ModStrlightningskill	ModStrlightningskill									0
+item_elemskillpoison	399		1	3	3						1				76	1024	1024		4	0	3	0	3																157	1	1	ModStrpoisonskill	ModStrpoisonskill									0
+item_elemskillmagic	400		1	3	3						1				76	1024	1024		4	0	3	0	3																157	1	1	ModStrmagicskill	ModStrmagicskill									0
+item_elemskillfire	401		1	3	3						1				76	1024	1024		4	0	3	0	3																157	1	1	ModStr3i	ModStr3i									0
+item_armorpercent_perstr	402		1	6											87	100	1024		6	0	6	0			5	3	strength	armorclass											73	8	1	Modstr2v	Modstr2v	playstr								0
+item_armorpercent_perdex	403		1	6											87	100	1024		6	0	6	0			5	3	dexterity	armorclass											73	8	1	Modstr2v	Modstr2v	playdex								0
+item_tohitpercent_perstr	404		1	6											10	256	1024		6	0	6	0			2	6	strength	item_tohit_percent						1					116	8	1	ModStr4c	ModStr4c	playstr								0
+item_tohitpercent_perdex	405		1	6											10	256	1024		6	0	6	0			2	6	dexterity	item_tohit_percent						1					116	8	1	ModStr4c	ModStr4c	playdex								0
+item_fasterswingvelocity_perdex	406	1	1	9											4083	156	1024		7	20	7	20			2	4	dexterity	item_fasterattackrate											148	8	1	ModStr4m	ModStr4m	playdex								0
+item_fasterswingvelocity_perlvl	407	1	1	9											4083	156	1024		7	20	7	20			2	3	level	item_fasterattackrate											148	8	1	ModStr4m	ModStr4m	increaseswithplaylevelX								0
+item_fasterblockrate_perstr	408	1	1	9											1484	72	1024		7	20	7	20			2	4	strength	item_fasterblockrate											136	8	1	ModStr4y	ModStr4y	playstr								0
+item_fasterblockrate_perlvl	409	1	1	9											1484	72	1024		7	20	7	20			2	3	level	item_fasterblockrate											136	8	1	ModStr4y	ModStr4y	increaseswithplaylevelX								0
+item_fastermovevelocity_perdex	410	1	1	9											4083	156	1024		7	20	7	20			2	4	dexterity	item_fastermovevelocity											148	8	1	ModStr4s	ModStr4s	playdex								0
+item_fastermovevelocity_perlvl	411	1	1	9											4083	156	1024		7	20	7	20			2	3	level	item_fastermovevelocity											148	8	1	ModStr4s	ModStr4s	increaseswithplaylevelX								0
+item_fastercastrate_perlvl	412	1	1	9											3876	156	1024		7	20	7	20			2	3	level	item_fastercastrate											142	8	1	ModStr4v	ModStr4v	increaseswithplaylevelX								0
+item_fasterhitrecovery_pervit	413	1	1	9											3876	156	1024		7	20	7	20			2	4	vitality	item_fastergethitrate											142	8	1	ModStr4p	ModStr4p	playvit								0
+item_fasterhitrecovery_perlvl	414	1	1	9											3876	156	1024		7	20	7	20			2	3	level	item_fastergethitrate											142	8	1	ModStr4p	ModStr4p	increaseswithplaylevelX								0
+item_increasedblock_perdex	415	1	1	9											3876	156	1024		7	20	7	20			2	4	dexterity	toblock											142	8	1	ModStr3ddd	ModStr3ddd	playdex								0
+item_increasedblock_perlvl	416	1	1	9											3876	156	1024		7	20	7	20			2	3	level	toblock											142	8	1	ModStr3ddd	ModStr3ddd	increaseswithplaylevelX								0
+item_addexperience_perlvl	417	1	1	9											3876	156	1024		7	20	7	20			2	3	level	item_addexperience											142	8	1	Moditem2ExpG	Moditem2ExpG	increaseswithplaylevelX								0
+item_addexperience_perenr	418	1	1	9											3876	156	1024		7	20	7	20			2	4	energy	item_addexperience											142	8	1	Moditem2ExpG	Moditem2ExpG	playenr								0
+item_reducedprices_perlvl	419	1	1	9											3876	156	1024		7	20	7	20			2	3	level	item_reducedprices											142	8	1	ModitemRedVendP	ModitemRedVendP	increaseswithplaylevelX								0
+item_pierce_perlvl	420	1	1	9											3876	156	1024		7	20	7	20			2	3	level	item_pierce											142	8	1	ModStr6g	ModStr6g	increaseswithplaylevelX								0
+item_pierce_perstr	421	1	1	9											3876	156	1024		7	20	7	20			2	4	strength	item_pierce											142	8	1	ModStr6g	ModStr6g	playstr								0
+resmax_display_all_zero	422																1024				1	0																	88	3	0	ModResMaxAllZero										0
+maxmagres_percent	423																1024				7	100			1			maxmagicresist																								0
+maxfireres_percent	424																1024				7	100			1			maxfireresist																								0
+maxlightres_percent	425																1024				7	100			1			maxlightresist																								0
+maxcoldres_percent	426																1024				7	100			1			maxcoldresist																								0
+maxpoisres_percent	427																1024				7	100			1			maxpoisonresist																								0
+magicresist_hidden	428														164	68	1024				8	75			2		hiddenresist_dummy	magicresist																								0
+maxmagicresist_hidden	429														164	68	1024				8	75			2		hiddenresist_dummy	maxmagicresist																								0
+fireresist_hidden	430														344	160	1024				8	75			2		hiddenresist_dummy	fireresist																								0
+maxfireresist_hidden	431														86	40	1024				8	75			2		hiddenresist_dummy	maxfireresist																								0
+lightresist_hidden	432														344	160	1024				8	75			2		hiddenresist_dummy	lightresist																								0
+maxlightresist_hidden	433														86	40	1024				8	75			2		hiddenresist_dummy	maxlightresist																								0
+coldresist_hidden	434														344	160	1024				8	75			2		hiddenresist_dummy	coldresist																								0
+maxcoldresist_hidden	435														86	40	1024				8	75			2		hiddenresist_dummy	maxcoldresist																								0
+poisonresist_hidden	436														344	160	1024				8	75			2		hiddenresist_dummy	poisonresist																								0
+maxpoisonresist_hidden	437														86	40	1024				8	75			2		hiddenresist_dummy	maxpoisonresist																								0
+hiddenresist_dummy	438																1024				1	0																														0
+item_slow_perlvl	439		1	7							1				101	40	1024		7	0	7	0			2	3	level	item_slow						1	domeleedamage	19	domissiledamage	19	77	2	2	ModStr5r	ModStr5r	increaseswithplaylevelX								0
+item_kick_damage_perstr	440		1	6											104	128	1024		6	0	6	0			2	4	strength	item_kickdamage						1					120	6	1	ModStr5e	ModStr5e	playstr								0
+item_kick_damage_perdex	441		1	6											104	128	1024		6	0	6	0			2	4	dexterity	item_kickdamage						1					120	6	1	ModStr5e	ModStr5e	playdex								0
+damageresist_perlvl	442		1	9											152	68	1024		8	0	8	0			2	3	level	damageresist											22	8	2	ModStr2u	ModStr2u	increaseswithplaylevelX								0
+damageresist_pervit	443		1	9											152	68	1024		8	0	8	0			2	4	vitality	damageresist											22	8	2	ModStr2u	ModStr2u	playvit								0
+magic_damage_reduction_perlvl	444		1	10											397	340	1024		6	0	6	0			2	3	level	magic_damage_reduction											21	6	2	ModStr2t	ModStr2t	increaseswithplaylevelX								0
+magic_damage_reduction_perenr	445		1	10											397	340	1024		6	0	6	0			2	4	energy	magic_damage_reduction											21	6	2	ModStr2t	ModStr2t	playenr								0
+magicresist_perlvl	446		1	9											164	68	1024		8	0	8	0			2	3	level	magicresist											41	8	2	ModStr1m	ModStr1m	increaseswithplaylevelX								0
+magicresist_perenr	447		1	9											164	68	1024		8	0	8	0			2	5	energy	magicresist											41	8	2	ModStr1m	ModStr1m	playenr								0
+item_stupidity_perlvl	448		1	8							1				332	1024	1024		7	0	7	0			2	3	level	item_stupidity						1	domeleedamage	9	domissiledamage	9	80	8	2	ModStr6d	ModStr6d	increaseswithplaylevelX								0
+item_freeze_perlvl	449		1	5							1				666	12	1024		5	0	5	0			2	3	level	item_freeze						1	domeleedamage	14	domissiledamage	14	78	6	2	ModStrFreeze1	ModStr3l	ModStrFreeze1a								0
+item_freeze_perenr	450		1	5							1				666	12	1024		5	0	5	0			2	5	energy	item_freeze						1	domeleedamage	14	domissiledamage	14	78	6	2	ModStrFreeze2	ModStr3l	ModStrFreeze2a								0
+item_poisonlengthresist_perlvl	451		1	9											27	10	1024		8	20	8	20			2	3	level	item_poisonlengthresist											18	8	2	ModStr3r	ModStr3r	increaseswithplaylevelX								0
+item_poisonlengthresist_pervit	452		1	9											27	10	1024		8	20	8	20			2	4	vitality	item_poisonlengthresist											18	8	2	ModStr3r	ModStr3r	playvit								0
+curse_resistance_perlvl	453			9											159	33	1024		14	0	9	0			2	3	level	curse_resistance											35	8	2	ModStrcurseresist	ModStrcurseresist	increaseswithplaylevelX								0
+curse_resistance_perenr	454			9											159	33	1024		14	0	9	0			2	4	energy	curse_resistance											35	8	2	ModStrcurseresist	ModStrcurseresist	playenr								0
+curse_resistance_length	455			9											159	33	1024		14	0	10	100																	35	2	2	ModStrcurseresist	ModStrcurseresistN									0
+item_manaafterkill_perlvl	456		1	7							1				17	102	1024		7	0	2	0			2	6	level	item_manaafterkill							kill	17			16	6	1	ModStr5f	ModStr5f	increaseswithplaylevelX								0
+item_manaafterkill_perenr	457		1	7							1				17	102	1024		7	0	2	0			2	6	energy	item_manaafterkill							kill	17			16	6	1	ModStr5f	ModStr5f	playenr								0
+item_fasterhitrecovery_perdex	458	1	1	9											3876	156	1024		7	20	7	20			2	4	dexterity	item_fastergethitrate											142	8	1	ModStr4p	ModStr4p	playdex								0
