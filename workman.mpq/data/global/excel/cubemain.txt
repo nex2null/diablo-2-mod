@@ -152,5 +152,5 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2
 1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction -> Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
 1 Tome of Town Portal + 1 Normal Armor -> Tempered Armor	1			100					2	"armo,nor"	tbk						"useitem,tmp"																																																																																							0
 1 Tome of Town Portal + 1 Weapon -> Tempered Weapon	1			100					2	"weap,nor"	tbk						"useitem,tmp"																																																																																							0
-1 Tempered Armor + 1 Healing Potion -> + Health	1			100					2	"armo,tmp"	hpot						useitem				hp			5	10	levelreq			2	2																																																																										
-1 Tempered Armor + 1 Healing Potion -> + Mana	1			100					2	"armo,tmp"	mpot						useitem				mana			5	10	levelreq			2	2																																																																										
+1 Tempered Armor + 1 Minor Essence of the Quill -> + Thorns	1			100					2	"armo,tmp"	ql0						useitem				thorns			2	2	levelreq			2	2																																																																										
+1 Armor + 1 Minor Essence of the Quill -> + Thorns	1			100					2	armo	ql0						useitem				thorns			1	1	levelreq			2	2																																																																										
