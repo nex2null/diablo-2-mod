@@ -851,4 +851,18 @@ Uber Izual			1	1024				0	mbr	1																						0
 Pandemonium Key A			1	1024				0	pk1	1																						0
 Pandemonium Key B			1	1024				0	pk2	1																						0
 Pandemonium Key C			1	1024				0	pk3	1																						0
-																																0
+Fallen 1			1						Act 1 H2H A	98	fl0	2																				0
+Fallen 2			1						Act 1 H2H B	98	fl0	2																				
+Fallen 3			1						Act 1 H2H B	98	fl0	2																				
+Fallen 4			1						Act 1 H2H C	98	fl0	2																				
+Fallen 5			1						Act 5 H2H C	98	fl0	2																				
+Fallen 1 (N)			1						gld	19	Act 1 (N) Junk	19																				
+Fallen 2 (N)			1						gld	19	Act 1 (N) Junk	19	Act 1 (N) Good	1																		
+Fallen 3 (N)			1						gld	19	Act 1 (N) Junk	19	Act 1 (N) Good	1																		
+Fallen 4 (N)			1						gld	19	Act 1 (N) Junk	19	Act 1 (N) Good	1																		
+Fallen 5 (N)			1						gld	19	Act 3 (N) Junk	19	Act 3 (N) Good	1																		
+Fallen 1 (H)			1						gld	19	Act 1 (H) Junk	19																				
+Fallen 2 (H)			1						gld	19	Act 1 (H) Junk	19	Act 1 (H) Good	3																		
+Fallen 3 (H)			1						gld	19	Act 1 (H) Junk	19	Act 1 (H) Good	3																		
+Fallen 4 (H)			1						gld	19	Act 1 (H) Junk	19	Act 1 (H) Good	3																		
+Fallen 5 (H)			1						gld	19	Act 3 (H) Junk	19	Act 3 (H) Good	3																		

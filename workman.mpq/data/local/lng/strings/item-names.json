@@ -26029,7 +26029,7 @@
   {
     "id": 28095,
     "Key": "ql0Description",
-    "enUS": "Adds +1 Damage to Attacker",
+    "enUS": "Adds +1 Damage to Attacker to Armor",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -26063,7 +26063,7 @@
   {
     "id": 28097,
     "Key": "fl0Description",
-    "enUS": "Adds +1 Chance to Flee on Attack",
+    "enUS": "Adds +1.5% Chance to Flee on Attack to Weapon",
     "zhTW": "",
     "deDE": "",
     "esES": "",
