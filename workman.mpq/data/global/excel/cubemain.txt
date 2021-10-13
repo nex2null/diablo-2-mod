@@ -156,3 +156,4 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2
 1 Armor + 1 Minor Soul of the Quill -> + Thorns	1			100					2	armo	ql0						useitem				thorns			1	1	levelreq			2	2																																																																										
 1 Tempered Weapon + 1 Minor Soul of the Fallen -> + Chance to flee on attack	1			100					2	"weap,tmp"	fl0						useitem				howl			4	4	levelreq			2	2																																																																										
 1 Weapon + 1 Minor Soul of the Fallen -> + Chance to flee on attack	1			100					2	weap	fl0						useitem				howl			2	2	levelreq			2	2																																																																										
+1 Identify Scroll + 1 Teleport Scroll = Random item I am testing with				100					2	isc	tsc						"weap,mag,pre=987,suf=616"	50																																																																																						
