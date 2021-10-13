@@ -14,4 +14,4 @@ A content / quality of life mod for Diablo 2: Resurrected
 - Run Diablo 2 Resurrected from the shortcut. Enjoy!
 
 ### Credits:
-Talonrage for unique items, properties, sets, and affixes plugins. https://d2mods.info/forum/viewtopic.php?t=36394
+- Talonrage (https://d2mods.info/forum/viewtopic.php?t=36394) for unique items, new properties, new sets, new runewords, new cube recipes, and new affixes.
