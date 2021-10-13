@@ -658,5 +658,5 @@
   { "bet": { "asset": "quest/burning_essence_of_terror" } },
   { "fed": { "asset": "quest/festering_essence_of_destruction" } },
   { "std": { "asset": "body_part/flag" } },
-  { "ql0": { "asset": "body_part/quill" } }
+  { "ql0": { "asset": "body_part/flag" } }
 ]
