@@ -854,3 +854,6 @@ Pandemonium Key C			1	1024				0	pk3	1																						0
 Corpsefire			-2					0	"gld,mul=1280"	1	Corpsefire's Rags1	1																				0
 Corpsefire (N)			1					0	Act 1 (N) Super A	7	Corpsefire's Rags2	1																				0
 Corpsefire (H)			1					0	Act 1 (H) Super A	7	Corpsefire's Rags3	1																				0
+Bishibosh			1					0	Act 1 Super A	7	Bishibosh's Staff1	1																				
+Bishibosh (N)			1					0	Act 1 (N) Super A	7	Bishibosh's Staff2	1																				
+Bishibosh (H)			1					0	Act 1 (H) Super A	7	Bishibosh's Staff3	1																				
