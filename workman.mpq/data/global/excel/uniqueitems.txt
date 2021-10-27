@@ -1379,7 +1379,7 @@ Corpsefire's Rags3	1373	100	1		1		1	55	uui	dusk shroud		5	5000	dred	dred						ac
 Bishibosh's Staff1	1374	100	1		1		1	3	sst	Short Staff		5	5000	lred	lred						fireskill		2	2	oskill	Fire Bolt	1	5																																										
 Bishibosh's Staff2	1375	100	1		1		1	31	8ss	jo staff		5	5000	lred	lred						allskills		1	1	cast1		10	15	fireskill		2	2	oskill	Fire Ball	3	3																																		
 Bishibosh's Staff3	1376	100	1		1		1	56	6ss	walking stick		5	5000	lred	lred						allskills		1	2	cast1		16	20	fireskill		2	3	mana-kill		3	5	sock		1	2	oskill	Fire Ball	3	3																										
-Wrapanishu1	1377	100	1		1		1	4	mbl	Belt		5	5000	lyel	lyel						gethit-skill	38	25	9	lightningskill		1	1	aura	Holy Shock	1	1																																						
+Wrapanishu1	1377	100	1		1		1	4	mbl	Belt		5	5000	lyel	lyel						gethit-skill	38	25	9	lightningskill		1	1	dmg-ltng		1	20																																						
 Wrapanishu2	1388	100	1		1		1	31	zmb	Mesh Belt		5	5000	lyel	lyel						gethit-skill	38	50	15	lightningskill		2	2	aura	Holy Shock	4	6																																						
 Wrapanishu3	1399	100	1		1		1	55	umc	mithril coil		5	5000	lyel	lyel						gethit-skill	38	75	23	lightningskill		3	3	aura	Holy Shock	8	12																																						
 Coldcrow's Quiver1	1400	100	1		1		1	5	z01	Arrows		5	5000	cblu	cblu						dmg-cold		4	12	coldskill		1	1	pierce-cold		5	15	rep-quant	25																																				0
