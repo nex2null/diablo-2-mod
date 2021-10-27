@@ -659,5 +659,7 @@
   { "fed": { "asset": "quest/festering_essence_of_destruction" } },
   { "std": { "asset": "body_part/flag" } },
   { "ql0": { "asset": "body_part/flag" } },
-  { "fl0": { "asset": "body_part/flag" } }
+  { "fl0": { "asset": "body_part/flag" } },
+  { "z01": { "asset": "quiver/arrows" } },
+  { "z02": { "asset": "quiver/bolts" } }
 ]

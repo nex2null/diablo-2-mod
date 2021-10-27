@@ -857,6 +857,9 @@ Corpsefire (H)			1					0	Act 1 (H) Super A	7	Corpsefire's Rags3	1															
 Bishibosh			1					0	Act 1 Super A	7	Bishibosh's Staff1	1																				
 Bishibosh (N)			1					0	Act 1 (N) Super A	7	Bishibosh's Staff2	1																				
 Bishibosh (H)			1					0	Act 1 (H) Super A	7	Bishibosh's Staff3	1																				
-Rakanishu			1					0	Act 1 Super B	7	Wrapanishu1	100																				
+Rakanishu			1					0	Act 1 Super B	7	Wrapanishu1	1																				
 Rakanishu (N)			1					0	Act 1 (N) Super B	7	Wrapanishu2	1																				
 Rakanishu (H)			1					0	Act 1 (H) Super B	7	Wrapanishu3	1																				
+Coldcrow			1					0	Act 1 Super A	7	Coldcrow's Quiver1	1																				
+Coldcrow (N)			1					0	Act 1 (N) Super A	7	Coldcrow's Quiver2	1																				
+Coldcrow (H)			1					0	Act 1 (H) Super A	7	Coldcrow's Quiver3	1																				
