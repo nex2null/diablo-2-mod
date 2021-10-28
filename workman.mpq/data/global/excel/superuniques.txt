@@ -3,7 +3,7 @@ Bishibosh	Bishibosh	fallenshaman1	0		8	9	0	2	2	1	0		11	11	11	Bishibosh	Bishibosh
 Bonebreak	Bonebreak	skeleton1	1		5	8	0	5	5	1	0		5	5	5	Bonebreak	Bonebreak (N)	Bonebreak (H)	0
 Coldcrow	Coldcrow	cr_archer1	2		18	0	0	4	4	1	0		18	18	18	Coldcrow	Coldcrow (N)	Coldcrow (H)	0
 Rakanishu	Rakanishu	fallen2	3		17	6	0	8	8	0	0	1	29	29	29	Rakanishu	Rakanishu (N)	Rakanishu (H)	0
-Treehead WoodFist	Treehead WoodFist	brute2	4		5	6	0	2	2	1	0	1	4	4	4	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
+Treehead WoodFist	Treehead WoodFist	brute2	4		5	6	0	2	2	1	0	1	4	4	4	Treehead Woodfist	Treehead Woodfist (N)	Treehead Woodfist (H)	0
 Griswold	Griswold	griswold	5		7	0	0	0	0	1	0	1	17	17	17	Griswold	Griswold (N)	Griswold (H)	0
 The Countess	The Countess	corruptrogue3	6	countess	9	0	0	6	6	1	0		16	16	16	Countess	Countess (N)	Countess (H)	0
 Pitspawn Fouldog	Pitspawn Fouldog	bighead2	7		7	18	0	4	4	1	0		31	31	31	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0

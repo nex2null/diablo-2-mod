@@ -518,3 +518,6 @@ repair eth item	1			100					4	"shld,any,eth"	"jew,uni,qty=2"	r21					"useitem,re
 forces item ethereal	1			100					4	"weap,any"	"jew,uni,qty=2"	r27					"usetype,eth"		100																																																																																					0
 forces item ethereal	1			100					4	"armo,any"	"jew,uni,qty=2"	r27					"usetype,eth"		100																																																																																					0
 forces item ethereal	1			100					4	"shld,any"	"jew,uni,qty=2"	r27					"usetype,eth"		100																																																																																					0
+Treehead Woodfist Normal Craft	1			100	4	12	21		2	armo	tw1						"usetype,rar"		100		red-dmg	100		5	10	red-mag	100		5	10																																																																										
+Treehead Woodfist Nightmare Craft	1			100	4	12	51		2	armo	tw2						"usetype,rar"		100		red-dmg	100		12	15	red-mag	100		12	15																																																																										
+Treehead Woodfist Hell Craft	1			100	3	12	49		2	armo	tw3						"usetype,rar"		100		red-dmg%	100		4	7	red-mag	100		15	20	res-mag	100		4	7																																																																					
