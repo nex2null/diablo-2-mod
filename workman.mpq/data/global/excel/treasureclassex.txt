@@ -869,3 +869,6 @@ Bonebreak (H)			1					0	Act 1 (H) Super A	7	Bonebreak's Mace3	1
 Blood Raven			1					0	Blood Raven1	7	Brooch of the Raven1	1																				
 Blood Raven (N)			1					0	Blood Raven (N)1	7	Brooch of the Raven2	1																				
 Blood Raven (H)			1					0	Blood Raven (H)1	7	Brooch of the Raven3	1																				
+Treehead Woodfist			1					0	Act 1 Super B	7	tw1	1																				
+Treehead Woodfist (N)			1					0	Act 1 (N) Super B	7	tw2	1																				
+Treehead Woodfist (H)			1					0	Act 1 (H) Super B	7	tw3	1																				
