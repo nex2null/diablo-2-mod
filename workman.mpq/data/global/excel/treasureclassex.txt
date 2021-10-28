@@ -863,3 +863,6 @@ Rakanishu (H)			1					0	Act 1 (H) Super B	7	Wrapanishu3	1
 Coldcrow			1					0	Act 1 Super A	7	Coldcrow's Quiver1	1																				
 Coldcrow (N)			1					0	Act 1 (N) Super A	7	Coldcrow's Quiver2	1																				
 Coldcrow (H)			1					0	Act 1 (H) Super A	7	Coldcrow's Quiver3	1																				
+Bonebreak			1					0	Act 1 Super A	5	Bonebreak's Mace1	100																				
+Bonebreak (N)			1					0	Act 1 (N) Super A	7	Bonebreak's Mace2	1																				
+Bonebreak (H)			1					0	Act 1 (H) Super A	7	Bonebreak's Mace3	1																				
