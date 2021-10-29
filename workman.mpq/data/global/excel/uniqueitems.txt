@@ -1387,6 +1387,6 @@ Wrapanishu3	1381	100	1		1		1	55	umc	mithril coil		5	5000	lyel	lyel						gethit-s
 Coldcrow's Quiver1	1382	100	1		1		1	5	z01	Arrows		5	5000	cblu	cblu						dmg-cold		4	12	coldskill		1	1	pierce-cold		5	15	rep-quant	25																																				0
 Coldcrow's Quiver2	1383	100	1		1		1	31	z01	Arrows		5	5000	cblu	cblu						dmg-cold		20	30	coldskill		1	2	pierce-cold		15	25	skill	21	1	3	rep-quant	50																																0
 Coldcrow's Quiver3	1384	100	1		1		1	55	z01	Arrows		5	5000	cblu	cblu						dmg-cold		40	60	coldskill		1	3	pierce-cold		25	40	skill	21	3	3	skill	33	1	3	rep-quant	100																												0
-Bonebreak's Mace1	1385	100	1		1		1	3	mst	Morning Star		5	5000	whit	whit						dmg%		100	150	swing1		15	15	kill-skill	Bone Armor	15	5	sock	1																																				0
-Bonebreak's Mace2	1386	100	1		1		1	31	9mt	Jagged Star		5	5000	whit	whit						dmg%		125	175	swing2		20	25	kill-skill	Bone Armor	15	10	lifesteal		5	5	sock	1																																0
-Bonebreak's Mace3	1387	100	1		1		1	55	7mt	Devil Star		5	5000	whit	whit						dmg%		175	225	swing2		25	30	kill-skill	Bone Armor	15	15	lifesteal		5	5	slow		20	25	sock	1																												0
+Bonebreak's Mace1	1385	100	1		1		1	3	mst	Morning Star		5	5000	whit	whit						dmg%		20	50	swing1		15	15	kill-skill	Bone Armor	15	5	sock	1																																				0
+Bonebreak's Mace2	1386	100	1		1		1	31	9mt	Jagged Star		5	5000	whit	whit						dmg%		75	125	swing2		20	25	kill-skill	Bone Armor	15	10	lifesteal		5	5	sock	1																																0
+Bonebreak's Mace3	1387	100	1		1		1	55	7mt	Devil Star		5	5000	whit	whit						dmg%		125	175	swing2		25	30	kill-skill	Bone Armor	15	15	lifesteal		5	5	slow		20	25	sock	1																												0
