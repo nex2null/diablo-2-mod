@@ -48707,7 +48707,7 @@
   {
     "id": 28588,
     "Key": "Corpsefire's Rags1",
-    "enUS": "Corpsefire's Rags",
+    "enUS": "Corpsefire's Tatters",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -48724,7 +48724,7 @@
   {
     "id": 28589,
     "Key": "Corpsefire's Rags2",
-    "enUS": "Corpsefire's Scraps",
+    "enUS": "Corpsefire's Tatters (N)",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -48741,7 +48741,7 @@
   {
     "id": 28590,
     "Key": "Corpsefire's Rags3",
-    "enUS": "Corpsefire's Tatters",
+    "enUS": "Corpsefire's Tatters (H)",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -48758,7 +48758,7 @@
   {
     "id": 28591,
     "Key": "Bishibosh's Staff1",
-    "enUS": "Bishibosh's Short Staff",
+    "enUS": "Bishibosh's Shaman Staff",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -48775,7 +48775,7 @@
   {
     "id": 28592,
     "Key": "Bishibosh's Staff2",
-    "enUS": "Bishibosh's Shaman Staff",
+    "enUS": "Bishibosh's Shaman Staff (N)",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -48792,7 +48792,7 @@
   {
     "id": 28593,
     "Key": "Bishibosh's Staff3",
-    "enUS": "Bishibosh's Apocalypse Staff",
+    "enUS": "Bishibosh's Shaman Staff (H)",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -48826,7 +48826,7 @@
   {
     "id": 28595,
     "Key": "Wrapanishu2",
-    "enUS": "Wrapanishu!!!",
+    "enUS": "Wrapanishu! (N)",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -48843,7 +48843,7 @@
   {
     "id": 28596,
     "Key": "Wrapanishu3",
-    "enUS": "WRAPANISHU!!!",
+    "enUS": "Wrapanishu! (H)",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -48860,7 +48860,7 @@
   {
     "id": 28597,
     "Key": "Coldcrow's Quiver1",
-    "enUS": "Coldcrow's Quiver",
+    "enUS": "Coldcrow's Frozen Quiver",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -48877,7 +48877,7 @@
   {
     "id": 28598,
     "Key": "Coldcrow's Quiver2",
-    "enUS": "Coldcrow's Frostbitten Quiver",
+    "enUS": "Coldcrow's Frozen Quiver (N)",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -48894,7 +48894,7 @@
   {
     "id": 28599,
     "Key": "Coldcrow's Quiver3",
-    "enUS": "Coldcrow's Frozen Quiver",
+    "enUS": "Coldcrow's Frozen Quiver (H)",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -48928,7 +48928,7 @@
   {
     "id": 28601,
     "Key": "Bonebreak's Mace2",
-    "enUS": "Bonebreaker's Malice",
+    "enUS": "Bonebreaker's Lament (N)",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -48945,7 +48945,7 @@
   {
     "id": 28602,
     "Key": "Bonebreak's Mace3",
-    "enUS": "Bonebreaker's Hatred",
+    "enUS": "Bonebreaker's Lament (H)",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -48962,7 +48962,7 @@
   {
     "id": 28603,
     "Key": "Brooch of the Raven1",
-    "enUS": "Bloodraven's Brooch",
+    "enUS": "Bloodraven's Flock",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -48979,7 +48979,7 @@
   {
     "id": 28604,
     "Key": "Brooch of the Raven2",
-    "enUS": "Bloodraven's Flock",
+    "enUS": "Bloodraven's Flock (N)",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -48996,7 +48996,7 @@
   {
     "id": 28605,
     "Key": "Brooch of the Raven3",
-    "enUS": "Bloodraven's Cacophony",
+    "enUS": "Bloodraven's Flock (H)",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -49013,7 +49013,7 @@
   {
     "id": 28606,
     "Key": "tw1",
-    "enUS": "ÿc8Treehead Woodfist's Soul Fragment",
+    "enUS": "ÿc8Treehead Woodfist's Soul",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -49030,7 +49030,7 @@
   {
     "id": 28607,
     "Key": "tw2",
-    "enUS": "ÿc8Treehead Woodfist's Partial Soul",
+    "enUS": "ÿc8Treehead Woodfist's Soul (N)",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -49047,7 +49047,7 @@
   {
     "id": 28608,
     "Key": "tw3",
-    "enUS": "ÿc8Treehead Woodfist's Soul",
+    "enUS": "ÿc8Treehead Woodfist's Soul (H)",
     "zhTW": "",
     "deDE": "",
     "esES": "",
