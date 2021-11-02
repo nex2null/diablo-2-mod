@@ -1390,9 +1390,9 @@ Coldcrow's Quiver3	1384	100	1		1		1	55	z01	Arrows		5	5000	cblu	cblu						dmg-col
 Bonebreak's Mace1	1385	100	1		1		1	5	mst	Morning Star		5	5000	whit	whit						dmg%		20	50	swing1		15	15	kill-skill	Bone Armor	15	5	sock	1																																				0
 Bonebreak's Mace2	1386	100	1		1		1	31	9mt	Jagged Star		5	5000	whit	whit						dmg%		75	125	swing2		20	25	kill-skill	Bone Armor	15	10	lifesteal		5	5	sock	1																																0
 Bonebreak's Mace3	1387	100	1		1		1	55	7mt	Devil Star		5	5000	whit	whit						dmg%		125	175	swing2		25	30	kill-skill	Bone Armor	15	15	lifesteal		5	5	slow		20	25	sock	1																												0
-Griswold's Gloves1	1388	100	1		1		1	6	vgl	Heavy Gloves		5	5000	dgry	dgry						swing1		8	12	all-stats		3	5	res-cold		10	15	abs-fire		3	5	sock	1																																0
-Griswold's Gloves2	1389	100	1		1		1	31	xvg	Sharkskin Gloves		5	5000	dgry	dgry						swing1		15	20	all-stats		6	10	res-cold		16	20	abs-fire		6	9	sock	1																																0
-Griswold's Gloves3	1390	100	1		1		1	56	uvg	vampirebone gloves		5	5000	dgry	dgry						swing1		20	25	all-stats		11	15	res-cold		21	30	abs-fire		10	15	sock	1																																0
+Griswold's Gloves1	1388	100	1		1		1	6	vgl	Heavy Gloves		5	5000	dgry	dgry						swing1		8	12	all-stats		3	5	res-cold		10	15	abs-fire		3	5																																		0
+Griswold's Gloves2	1389	100	1		1		1	31	xvg	Sharkskin Gloves		5	5000	dgry	dgry						swing1		15	20	all-stats		6	10	res-cold		16	20	abs-fire		6	9																																		0
+Griswold's Gloves3	1390	100	1		1		1	56	uvg	vampirebone gloves		5	5000	dgry	dgry						swing1		20	25	all-stats		11	15	res-cold		21	30	abs-fire		10	15																																		0
 The Smith's Shield1	1391	100	1		1		1	8	lrg	Large Shield		5	5000	dred	dred						res-all		10	15	fire-thorns		7	10	gethit-skill	225	15	5	block1		20	20	sock	2																																0
 The Smith's Shield2	1392	100	1		1		1	32	xrg	Scutum		5	5000	dred	dred						res-all		20	25	fire-thorns		20	30	gethit-skill	225	15	12	block1		25	30	sock	2																																0
 The Smith's Shield3	1393	100	1		1		1	57	urg	Hyperion		5	5000	dred	dred						res-all		25	30	fire-thorns		35	50	gethit-skill	225	15	18	block1		30	40	sock	2																																0
