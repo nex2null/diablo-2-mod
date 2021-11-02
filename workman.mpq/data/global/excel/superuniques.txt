@@ -6,9 +6,9 @@ Rakanishu	Rakanishu	fallen2	3		17	6	0	8	8	0	0	1	29	29	29	Rakanishu	Rakanishu (N)
 Treehead WoodFist	Treehead WoodFist	brute2	4		5	6	0	2	2	1	0	1	4	4	4	Treehead Woodfist	Treehead Woodfist (N)	Treehead Woodfist (H)	0
 Griswold	Griswold	griswold	5		7	0	0	0	0	1	0	1	17	17	17	Griswold	Griswold (N)	Griswold (H)	0
 The Countess	The Countess	corruptrogue3	6	countess	9	0	0	6	6	1	0		16	16	16	Countess	Countess (N)	Countess (H)	0
-Pitspawn Fouldog	Pitspawn Fouldog	bighead2	7		7	18	0	4	4	1	0		31	31	31	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
+Pitspawn Fouldog	Pitspawn Fouldog	bighead2	7		7	18	0	4	4	1	0		31	31	31	Fouldog	Fouldog (N)	Fouldog (H)	0
 Flamespike the Crawler	Flamespike the Crawler	quillrat4	8		9	7	0	6	6	1	0		16	16	16	Act 1 Unique C	Act 1 (N) Unique C	Act 1 (H) Unique C	0
-Boneash	Boneash	skmage_pois3	9		8	5	18	0	0	1	0		15	15	15	Act 1 Super C	Act 1 (N) Super C	Act 1 (H) Super C	0
+Boneash	Boneash	skmage_pois3	9		8	5	18	0	0	1	0		15	15	15	Boneash	Boneash (N)	Boneash (H)	0
 Radament	Radament	radament	10		6	0	0	3	3	1	0		30	30	30	Radament	Radament (N)	Radament (H)	0
 Bloodwitch the Wild	Bloodwitch the Wild	pantherwoman1	11		5	7	0	5	5	1	0		29	29	29	Act 2 Super A	Act 2 (N) Super A	Act 2 (H) Super A	0
 Fangskin	Fangskin	clawviper3	12		17	6	0	4	4	1	0		14	14	14	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
