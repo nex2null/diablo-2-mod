@@ -518,6 +518,9 @@ repair eth item	1			100					4	"shld,any,eth"	"jew,uni,qty=2"	r21					"useitem,re
 forces item ethereal	1			100					4	"weap,any"	"jew,uni,qty=2"	r27					"usetype,eth"		100																																																																																					0
 forces item ethereal	1			100					4	"armo,any"	"jew,uni,qty=2"	r27					"usetype,eth"		100																																																																																					0
 forces item ethereal	1			100					4	"shld,any"	"jew,uni,qty=2"	r27					"usetype,eth"		100																																																																																					0
-Treehead Woodfist Normal Craft	1			100	4	12	21		2	armo	tw1						"usetype,rar"		100		red-dmg	100		5	10	red-mag	100		5	10																																																																										
-Treehead Woodfist Nightmare Craft	1			100	4	12	51		2	armo	tw2						"usetype,rar"		100		red-dmg	100		12	15	red-mag	100		12	15																																																																										
-Treehead Woodfist Hell Craft	1			100	3	12	49		2	armo	tw3						"usetype,rar"		100		red-dmg%	100		4	7	red-mag	100		15	20	res-mag	100		4	7																																																																					
+Treehead Woodfist Normal Craft	1			100	4	12	31		2	armo	tw1						"usetype,rar"		100		red-dmg	100		5	10	red-mag	100		5	10																																																																										
+Treehead Woodfist Nightmare Craft	1			100	4	12	56		2	armo	tw2						"usetype,rar"		100		red-dmg	100		12	15	red-mag	100		12	15																																																																										
+Treehead Woodfist Hell Craft	1			100	3	12	54		2	armo	tw3						"usetype,rar"		100		red-dmg%	100		4	7	red-mag	100		15	20	res-mag	100		4	7																																																																					
+Creeping Feature Normal Craft	1			100	4	12	31		2	weap	cf1						"usetype,rar"		100		lifesteal	100		3	5	dmg%	100		50	100																																																																										
+Creeping Feature Nightmare Craft	1			100	4	12	56		2	weap	cf2						"usetype,rar"		100		lifesteal	100		5	7	dmg%	100		100	150																																																																										
+Creeping Feature Hell Craft	1			100	3	12	54		2	weap	cf3						"usetype,rar"		100		lifesteal	100		7	9	dmg%	100		175	225																																																																										

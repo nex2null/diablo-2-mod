@@ -887,6 +887,9 @@ Boneash (H)			1					0	Act 1 (H) Super C	7	Bone Ash's Ring3	1
 Andarielq			1					0	Andarielq1	7	Andariel's Charm1	1																				
 Andarielq (N)			1					0	Andarielq (N)1	7	Andariel's Charm2	1																				
 Andarielq (H)			1					0	Andarielq (H)1	7	Andariel's Charm3	1																				
-Radament			1					0	Radament1	7	Radament's Amulet1	100																				
-Radament (N)			1					0	Radament (N)1	7	Radament's Amulet2	100																				
-Radament (H)			1					0	Radament (H)1	7	Radament's Amulet3	100																				
+Radament			1					0	Radament1	7	Radament's Amulet1	1																				
+Radament (N)			1					0	Radament (N)1	7	Radament's Amulet2	1																				
+Radament (H)			1					0	Radament (H)1	7	Radament's Amulet3	1																				
+Creeping Feature			1					0	Act 2 Super A	7	cf1	1																				
+Creeping Feature (N)			1					0	Act 2 (N) Super A	7	cf2	1																				
+Creeping Feature (H)			1					0	Act 2 (H) Super A	7	cf3	1																				

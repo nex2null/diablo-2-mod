@@ -664,5 +664,8 @@
   { "z02": { "asset": "quiver/bolts" } },
   { "tw1": { "asset": "body_part/spleen" } },
   { "tw2": { "asset": "body_part/spleen" } },
-  { "tw3": { "asset": "body_part/spleen" } }
+  { "tw3": { "asset": "body_part/spleen" } },
+  { "cf1": { "asset": "body_part/spleen" } },
+  { "cf2": { "asset": "body_part/spleen" } },
+  { "cf3": { "asset": "body_part/spleen" } }
 ]

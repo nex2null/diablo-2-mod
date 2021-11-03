@@ -13,7 +13,7 @@ Radament	Radament	radament	10		6	0	0	3	3	1	0		30	30	30	Radament	Radament (N)	Rad
 Bloodwitch the Wild	Bloodwitch the Wild	pantherwoman1	11		5	7	0	5	5	1	0		29	29	29	Act 2 Super A	Act 2 (N) Super A	Act 2 (H) Super A	0
 Fangskin	Fangskin	clawviper3	12		17	6	0	4	4	1	0		14	14	14	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
 Beetleburst	Beetleburst	scarab2	13		8	0	0	3	3	1	0	1	13	13	13	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
-Leatherarm	Leatherarm	mummy2	14		5	18	0	5	5	1	0		25	25	25	Act 2 Super A	Act 2 (N) Super A	Act 2 (H) Super A	0
+Leatherarm	Leatherarm	mummy2	14		5	18	0	5	5	1	0		25	25	25	Creeping Feature	Creeping Feature (N)	Creeping Feature (H)	0
 Coldworm the Burrower	Coldworm the Burrower	maggotqueen1	15		18	8	0	0	0	0	0		13	13	13	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
 Fire Eye	Fire Eye	sandraider3	16		9	6	0	3	3	1	0		12	12	12	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
 Dark Elder	Dark Elder	darkelder	17		6	8	0	4	4	1	0	1	27	27	27	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
