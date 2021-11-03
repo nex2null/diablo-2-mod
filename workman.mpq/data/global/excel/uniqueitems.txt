@@ -1405,3 +1405,6 @@ Bone Ash's Ring3	1399	100	1		1		1	57	rin	Ring		5	5000	dgrn	dgrn						extra-pois	
 Andariel's Charm1	1400	100	1		1		1	11	cm2	Large Charm	1	5	5000	dgrn	dgrn						move1		20	25																																														0
 Andariel's Charm2	1401	100	1		1		1	33	cm2	Large Charm	1	5	5000	dgrn	dgrn						move1		25	30																																														0
 Andariel's Charm3	1402	100	1		1		1	57	cm2	Large Charm	1	5	5000	dgrn	dgrn						move1		35	40																																														0
+Radament's Amulet1	1403	100	1		1		1	12	amu	Amulet		5	5000								oskill	Raise Skeletal Mage	3	4	oskill	Skeleton Mastery	2	3	res-mag		5	10	res-all		10	15	mag%		15	20																														0
+Radament's Amulet2	1404	100	1		1		1	33	amu	Amulet		5	5000								oskill	Raise Skeletal Mage	5	6	oskill	Skeleton Mastery	3	4	res-mag		11	15	res-all		16	20	mag%		25	30																														0
+Radament's Amulet3	1405	100	1		1		1	58	amu	Amulet		5	5000								oskill	Raise Skeletal Mage	7	10	oskill	Skeleton Mastery	4	5	res-mag		16	20	res-all		20	25	mag%		35	40																														0
