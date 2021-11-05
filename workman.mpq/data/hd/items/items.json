@@ -667,5 +667,11 @@
   { "tw3": { "asset": "body_part/spleen" } },
   { "cf1": { "asset": "body_part/spleen" } },
   { "cf2": { "asset": "body_part/spleen" } },
-  { "cf3": { "asset": "body_part/spleen" } }
+  { "cf3": { "asset": "body_part/spleen" } },
+  { "bb1": { "asset": "body_part/spleen" } },
+  { "bb2": { "asset": "body_part/spleen" } },
+  { "bb3": { "asset": "body_part/spleen" } },
+  { "ka1": { "asset": "body_part/spleen" } },
+  { "ka2": { "asset": "body_part/spleen" } },
+  { "ka3": { "asset": "body_part/spleen" } }
 ]
