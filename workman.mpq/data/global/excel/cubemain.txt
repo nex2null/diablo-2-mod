@@ -147,8 +147,8 @@ Wirt's Leg + Tome of Town Portal -> Portal to The Secret Cow Level	1			0	28				2
 1 Ral Rune + 1 Jewel + 1 Magic Amulet -> Tempered Amulet				100					3	"amu,mag"	jew	r08					"usetype,tmp"				levelreq			5	5																																																																															0
 1 El Rune + 1 Chipped Gem (Any) + 1 Tempered Weapon -> Weapon With Extra Attack Rating				100					3	"weap,tmp"	r01	gcv					useitem				levelreq			2	2	att			30	50																																																																										0
 3 Chipped Gems (Any) + 1 Magic Weapon -> Socketed Magic Weapon	1			0					4	"weap,mag"	"gem0,qty=3"						"usetype,mag"	25		50	sock			1	2																																																																															0
-1 Key of Terror + 1 Key of Hate + 1 Key of Destruction -> Portal to Matron's Den/Forgotten Sands/Furnace of Pain (Random)	1			100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							
-1 Diablo's Horn + 1 Baal's Eye + 1 Mephisto's Brain -> Portal to Tristram (Pandemonium Finale)	1			100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							
+1 Key of Terror + 1 Key of Hate + 1 Key of Destruction -> Portal to Matron's Den/Forgotten Sands/Furnace of Pain (Random)	1			100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							0
+1 Diablo's Horn + 1 Baal's Eye + 1 Mephisto's Brain -> Portal to Tristram (Pandemonium Finale)	1			100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							0
 1 Twisted Essence of Suffering + 1 Charged Essence of Hatred + 1 Burning Essence of Terror + 1 Festering Essence of Destruction -> Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
 3 chipped gems + 1 magic weapon -> socketed, magic weapon	1			0					4	"weap,mag"	"gem0,qty=3"						"usetype,mag"	25		50	sock			1	2																																																																															0
 Replenish Unique Arrows	1			100					2	Replenishing Quiver	hpot						"useitem,rep,qty=500"		100		rep-quant	100	100																																																																																	0
@@ -518,6 +518,15 @@ repair eth item	1			100					4	"shld,any,eth"	"jew,uni,qty=2"	r21					"useitem,re
 forces item ethereal	1			100					4	"weap,any"	"jew,uni,qty=2"	r27					"usetype,eth"		100																																																																																					0
 forces item ethereal	1			100					4	"armo,any"	"jew,uni,qty=2"	r27					"usetype,eth"		100																																																																																					0
 forces item ethereal	1			100					4	"shld,any"	"jew,uni,qty=2"	r27					"usetype,eth"		100																																																																																					0
-Treehead Woodfist Normal Craft	1			100	4	12	21		2	armo	tw1						"usetype,rar"		100		red-dmg	100		5	10	red-mag	100		5	10																																																																										
-Treehead Woodfist Nightmare Craft	1			100	4	12	51		2	armo	tw2						"usetype,rar"		100		red-dmg	100		12	15	red-mag	100		12	15																																																																										
-Treehead Woodfist Hell Craft	1			100	3	12	49		2	armo	tw3						"usetype,rar"		100		red-dmg%	100		4	7	red-mag	100		15	20	res-mag	100		4	7																																																																					
+Treehead Woodfist Normal Craft	1			100	4	12	31		2	armo	tw1						"usetype,rar"		100		red-dmg	100		5	10	red-mag	100		5	10																																																																										0
+Treehead Woodfist Nightmare Craft	1			100	4	12	56		2	armo	tw2						"usetype,rar"		100		red-dmg	100		12	15	red-mag	100		12	15																																																																										0
+Treehead Woodfist Hell Craft	1			100	3	12	54		2	armo	tw3						"usetype,rar"		100		red-dmg%	100		4	7	red-mag	100		15	20	res-mag	100		4	7																																																																					0
+Creeping Feature Normal Craft	1			100	4	12	31		2	weap	cf1						"usetype,rar"		100		lifesteal	100		3	5	dmg%	100		50	100																																																																										0
+Creeping Feature Nightmare Craft	1			100	4	12	56		2	weap	cf2						"usetype,rar"		100		lifesteal	100		5	7	dmg%	100		100	150																																																																										0
+Creeping Feature Hell Craft	1			100	3	12	54		2	weap	cf3						"usetype,rar"		100		lifesteal	100		7	9	dmg%	100		175	225																																																																										0
+Beetleburst Normal Craft	1			100	4	12	31		2	helm	bb1						"usetype,rar"		100		gethit-skill	100	42	5	1	dmg-ltng	100		1	15																																																																										0
+Beetleburst Nightmare Craft	1			100	4	12	56		2	helm	bb2						"usetype,rar"		100		gethit-skill	100	42	10	4	dmg-ltng	100		5	75																																																																										0
+Beetleburst Hell Craft	1			100	3	12	54		2	helm	bb3						"usetype,rar"		100		gethit-skill	100	42	15	7	dmg-ltng	100		10	150																																																																										0
+Kaa Normal Craft	1			100	4	12	31		2	rin	ka1						"usetype,rar"		100		oskill	100	75	4	4																																																																															0
+Kaa Nightmare Craft	1			100	4	12	56		2	rin	ka2						"usetype,rar"		100		oskill	100	75	8	8																																																																															0
+Kaa Hell Craft	1			100	3	12	54		2	rin	ka3						"usetype,rar"		100		oskill	100	75	12	12																																																																															0

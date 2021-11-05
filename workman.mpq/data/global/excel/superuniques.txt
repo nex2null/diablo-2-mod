@@ -10,15 +10,15 @@ Pitspawn Fouldog	Pitspawn Fouldog	bighead2	7		7	18	0	4	4	1	0		31	31	31	Fouldog	F
 Flamespike the Crawler	Flamespike the Crawler	quillrat4	8		9	7	0	6	6	1	0		16	16	16	Act 1 Unique C	Act 1 (N) Unique C	Act 1 (H) Unique C	0
 Boneash	Boneash	skmage_pois3	9		8	5	18	0	0	1	0		15	15	15	Boneash	Boneash (N)	Boneash (H)	0
 Radament	Radament	radament	10		6	0	0	3	3	1	0		30	30	30	Radament	Radament (N)	Radament (H)	0
-Bloodwitch the Wild	Bloodwitch the Wild	pantherwoman1	11		5	7	0	5	5	1	0		29	29	29	Act 2 Super A	Act 2 (N) Super A	Act 2 (H) Super A	0
-Fangskin	Fangskin	clawviper3	12		17	6	0	4	4	1	0		14	14	14	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
-Beetleburst	Beetleburst	scarab2	13		8	0	0	3	3	1	0	1	13	13	13	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
-Leatherarm	Leatherarm	mummy2	14		5	18	0	5	5	1	0		25	25	25	Act 2 Super A	Act 2 (N) Super A	Act 2 (H) Super A	0
-Coldworm the Burrower	Coldworm the Burrower	maggotqueen1	15		18	8	0	0	0	0	0		13	13	13	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
-Fire Eye	Fire Eye	sandraider3	16		9	6	0	3	3	1	0		12	12	12	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
-Dark Elder	Dark Elder	darkelder	17		6	8	0	4	4	1	0	1	27	27	27	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
+Bloodwitch the Wild	Bloodwitch the Wild	pantherwoman1	11		5	7	0	5	5	1	0		29	29	29	Bloodwitch	Bloodwitch (N)	Bloodwitch (H)	0
+Fangskin	Fangskin	clawviper3	12		17	6	0	4	4	1	0		14	14	14	Fangskin	Fangskin (N)	Fangskin (H)	0
+Beetleburst	Beetleburst	scarab2	13		8	0	0	3	3	1	0	1	13	13	13	Beetleburst	Beetleburst (N)	Beetleburst (H)	0
+Leatherarm	Leatherarm	mummy2	14		5	18	0	5	5	1	0		25	25	25	Creeping Feature	Creeping Feature (N)	Creeping Feature (H)	0
+Coldworm the Burrower	Coldworm the Burrower	maggotqueen1	15		18	8	0	0	0	0	0		13	13	13	Coldworm	Coldworm (N)	Coldworm (H)	0
+Fire Eye	Fire Eye	sandraider3	16		9	6	0	3	3	1	0		12	12	12	Fire Eye	Fire Eye (N)	Fire Eye (H)	0
+Dark Elder	Dark Elder	darkelder	17		6	8	0	4	4	1	0	1	27	27	27	Dark Elder	Dark Elder (N)	Dark Elder (H)	0
 The Summoner	The Summoner	summoner	18		5	6	0	0	0	1	0		26	26	26	Summoner	Summoner (N)	Summoner (H)	0
-Ancient Kaa the Soulless	Ancient Kaa the Soulless	unraveler3	19		25	5	17	3	3	1	0		11	11	11	Act 2 Super C	Act 2 (N) Super C	Act 2 (H) Super C	0
+Ancient Kaa the Soulless	Ancient Kaa the Soulless	unraveler3	19		25	5	17	3	3	1	0		11	11	11	Kaa	Kaa (N)	Kaa (H)	0
 The Smith	The Smith	smith	20	smith	5	0	0	0	0	1	0		26	26	26	Smith	Smith (N)	Smith (H)	0
 Web Mage the Burning	Web Mage the Burning	arach4	21		5	7	0	5	5	1	0		19	19	19	Act 3 Super A	Act 3 (N) Super A	Act 3 (H) Super A	0
 Witch Doctor Endugu	Witch Doctor Endugu	fetishshaman4	22		8	9	0	6	6	1	0		20	20	20	Act 3 Super B	Act 3 (N) Super B	Act 3 (H) Super B	0
