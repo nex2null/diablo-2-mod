@@ -1371,25 +1371,25 @@ Diamond Facet	1366	100	1		1		67	67	jew	jewel		3	5000		whit						res-all		12	15	c
 Adamantine Facet	1367	100	1		1		71	71	jew	jewel		3	5000								red-dmg%		5	7	red-dmg		8	12	red-mag		8	10	ac%		25	35																																		0
 Star Facet	1368	100	1		1		76	76	jew	jewel		3	5000								dmg%		40	40	swing1		15	15	dmg-max		15	15																																						0
 Heaven Facet	1369	100	1		1		85	85	jew	jewel		3	5000								allskills		1	1	hp%		5	5	mana%		5	5																																						0
-Super Unique Items																																																																						
-Brooch of the Raven1	1370	100	1		1		10	8	amu	Amulet		5	5000	dred	dred						move1		10	15	kill-skill	Raven	20	5	oskill	Raven	5	5																																						0
-Brooch of the Raven2	1371	100	1		1		10	31	amu	Amulet		5	5000	dred	dred						move1		15	20	kill-skill	Raven	20	10	oskill	Raven	10	10	res-all		5	15																																		0
-Brooch of the Raven3	1372	100	1		1		10	55	amu	Amulet		5	5000	dred	dred						move1		20	25	kill-skill	Raven	20	15	oskill	Raven	15	15	res-all		15	25	mag%		15	30																														0
-Corpsefire's Rags1	1373	100	1		1		1	3	qui	Quilted Armor		5	1500	dred	dred						ac		15	25	res-fire		10	15	dmg-fire		3	7																																						
-Corpsefire's Rags2	1374	100	1		1		1	30	xui	Ghost Armor		5	5000	dred	dred						ac%		50	100	res-fire		20	30	dmg-fire		25	50	balance2		15	20	manasteal		3	5																														
-Corpsefire's Rags3	1375	100	1		1		1	55	uui	dusk shroud		5	5000	dred	dred						ac%		80	125	res-fire		25	40	dmg-fire		100	150	balance3		21	30	manasteal		3	5	lifesteal		3	5																										
-Bishibosh's Staff1	1376	100	1		1		1	4	sst	Short Staff		5	5000	lred	lred						fireskill		2	2	oskill	Fire Bolt	1	5																																										
-Bishibosh's Staff2	1377	100	1		1		1	31	8ss	jo staff		5	5000	lred	lred						allskills		1	1	cast1		10	15	fireskill		2	2	oskill	Fire Ball	3	3																																		
-Bishibosh's Staff3	1378	100	1		1		1	56	6ss	walking stick		5	5000	lred	lred						allskills		1	2	cast1		16	20	fireskill		2	3	mana-kill		3	5	sock		1	2	oskill	Fire Ball	3	3																										
-Wrapanishu1	1379	100	1		1		1	5	mbl	Belt		5	5000	lyel	lyel						gethit-skill	38	25	9	lightningskill		1	1	dmg-ltng		1	20																																						
-Wrapanishu2	1380	100	1		1		1	31	zmb	Mesh Belt		5	5000	lyel	lyel						gethit-skill	38	50	15	lightningskill		2	2	aura	Holy Shock	4	6																																						
-Wrapanishu3	1381	100	1		1		1	56	umc	mithril coil		5	5000	lyel	lyel						gethit-skill	38	75	23	lightningskill		3	3	aura	Holy Shock	8	12																																						
-Coldcrow's Quiver1	1382	100	1		1		1	5	z01	Arrows		5	5000	cblu	cblu						dmg-cold		4	12	coldskill		1	1	pierce-cold		5	15	rep-quant	25																																				0
-Coldcrow's Quiver2	1383	100	1		1		1	31	z01	Arrows		5	5000	cblu	cblu						dmg-cold		20	30	coldskill		1	2	pierce-cold		15	25	skill	21	1	3	rep-quant	50																																0
-Coldcrow's Quiver3	1384	100	1		1		1	55	z01	Arrows		5	5000	cblu	cblu						dmg-cold		40	60	coldskill		1	3	pierce-cold		25	40	skill	21	3	3	skill	33	1	3	rep-quant	100																												0
-Bonebreak's Mace1	1385	100	1		1		1	5	mst	Morning Star		5	5000	whit	whit						dmg%		20	50	swing1		15	15	kill-skill	Bone Armor	15	5	sock	1																																				0
-Bonebreak's Mace2	1386	100	1		1		1	31	9mt	Jagged Star		5	5000	whit	whit						dmg%		75	125	swing2		20	25	kill-skill	Bone Armor	15	10	lifesteal		5	5	sock	1																																0
-Bonebreak's Mace3	1387	100	1		1		1	55	7mt	Devil Star		5	5000	whit	whit						dmg%		125	175	swing2		25	30	kill-skill	Bone Armor	15	15	lifesteal		5	5	slow		20	25	sock	1																												0
+Super Unique Items																																																																						0
+Brooch of the Raven1	1370	100	1		1		10	8	amu	Amulet		5	5000	dred	dred						move1		10	15	kill-skill	Raven	20	5	oskill	Raven	5	5	res-all		5	10																																		0
+Brooch of the Raven2	1371	100	1		1		10	31	amu	Amulet		5	5000	dred	dred						move1		15	20	kill-skill	Raven	20	10	oskill	Raven	10	10	res-all		10	15																																		0
+Brooch of the Raven3	1372	100	1		1		10	55	amu	Amulet		5	5000	dred	dred						move1		20	25	kill-skill	Raven	20	15	oskill	Raven	15	15	res-all		15	20																																		0
+Corpsefire's Rags1	1373	100	1		1		1	3	qui	Quilted Armor		5	1500	dred	dred						ac		15	25	mana		10	20	hp		20	30	regen		20	20																																		0
+Corpsefire's Rags2	1374	100	1		1		1	30	xui	Ghost Armor		5	5000	dred	dred						ac%		50	100	mana		30	40	hp		60	75	regen		40	40																																		0
+Corpsefire's Rags3	1375	100	1		1		1	55	uui	dusk shroud		5	5000	dred	dred						ac%		80	125	mana		60	75	hp		100	120	regen		60	60																																		0
+Bishibosh's Staff1	1376	100	1		1		1	4	sst	Short Staff		5	5000	lred	lred						fireskill		1	2	sock	2			cast1		10	15	mag%		10	20																																		0
+Bishibosh's Staff2	1377	100	1		1		1	31	8ss	jo staff		5	5000	lred	lred						fireskill		2	3	sock	2			cast1		15	20	mag%		20	30																																		0
+Bishibosh's Staff3	1378	100	1		1		1	56	6ss	walking stick		5	5000	lred	lred						fireskill		3	4	sock	2			cast1		20	25	mag%		30	40																																		0
+Wrapanishu1	1379	100	1		1		1	5	mbl	Belt		5	5000	lyel	lyel						gethit-skill	38	25	9	lightningskill		1	1	dmg-ltng		1	20																																						0
+Wrapanishu2	1380	100	1		1		1	31	zmb	Mesh Belt		5	5000	lyel	lyel						gethit-skill	38	50	15	lightningskill		2	2	aura	Holy Shock	2	4																																						0
+Wrapanishu3	1381	100	1		1		1	56	umc	mithril coil		5	5000	lyel	lyel						gethit-skill	38	75	23	lightningskill		3	3	aura	Holy Shock	4	6																																						0
+Coldcrow's Quiver1	1382	100	1		1		1	5	z01	Arrows		5	5000	cblu	cblu						dmg-cold		4	12	coldskill		1	1	pierce-cold		5	15	rep-quant	100																																				0
+Coldcrow's Quiver2	1383	100	1		1		1	31	z01	Arrows		5	5000	cblu	cblu						dmg-cold		20	30	coldskill		1	2	pierce-cold		15	25	rep-quant	100																																				0
+Coldcrow's Quiver3	1384	100	1		1		1	55	z01	Arrows		5	5000	cblu	cblu						dmg-cold		40	60	coldskill		1	3	pierce-cold		25	40	rep-quant	100																																				0
+Bonebreak's Mace1	1385	100	1		1		1	5	mst	Morning Star		5	5000	whit	whit						dmg%		20	50	swing1		15	15	kill-skill	Bone Armor	15	5	slow		10	15	sock	1																																0
+Bonebreak's Mace2	1386	100	1		1		1	31	9mt	Jagged Star		5	5000	whit	whit						dmg%		75	125	swing2		20	25	kill-skill	Bone Armor	15	10	slow		15	20	sock	1																																0
+Bonebreak's Mace3	1387	100	1		1		1	55	7mt	Devil Star		5	5000	whit	whit						dmg%		125	175	swing2		25	30	kill-skill	Bone Armor	15	15	slow		20	25	sock	1																																0
 Griswold's Gloves1	1388	100	1		1		1	6	vgl	Heavy Gloves		5	5000	dgry	dgry						swing1		8	12	all-stats		3	5	res-cold		10	15	abs-fire		3	5																																		0
 Griswold's Gloves2	1389	100	1		1		1	31	xvg	Sharkskin Gloves		5	5000	dgry	dgry						swing1		15	20	all-stats		6	10	res-cold		16	20	abs-fire		6	9																																		0
 Griswold's Gloves3	1390	100	1		1		1	56	uvg	vampirebone gloves		5	5000	dgry	dgry						swing1		20	25	all-stats		11	15	res-cold		21	30	abs-fire		10	15																																		0
