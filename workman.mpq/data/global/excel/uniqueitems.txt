@@ -1417,9 +1417,9 @@ Coldworm's Armor3	1411	100	1		1		1	58	upl	Balrog Skin		5	5000	cblu	cblu						col
 Dark Elder's Javelin1	1412	100	1		1		1	15	ssp	Short Spear		5	5000	dgry	dgry						dmg%		50	75	dmg-pois	100	307	307	swing1		10	10	res-pois		10	20	rep-quant	100																																0
 Dark Elder's Javelin2	1413	100	1		1		1	35	9s9	Simbilan		5	5000	dgry	dgry						dmg%		100	150	dmg-pois	100	590	590	swing1		15	15	res-pois		20	30	rep-quant	100																																0
 Dark Elder's Javelin3	1414	100	1		1		1	58	7s7	balrog spear		5	5000	dgry	dgry						dmg%		150	200	dmg-pois	100	1200	1200	swing1		20	20	res-pois		35	50	rep-quant	100																																0
-Fangskin's Belt1	1415	100	1		1		1	15	mbl	Belt		5	5000								balance1		10	10	regen		-10	-10	regen-mana		-10	-10	lifesteal		2	4	manasteal		2	4																														0
-Fangskin's Belt2	1416	100	1		1		1	36	zmb	Mesh Belt		5	5000								balance1		15	20	regen		-20	-20	regen-mana		-20	-20	lifesteal		5	7	manasteal		5	7																														0
-Fangskin's Belt3	1417	100	1		1		1	58	umc	mithril coil		5	5000								balance1		20	25	regen		-30	-30	regen-mana		-30	-30	lifesteal		8	10	manasteal		8	10																														0
+Fangskin's Belt1	1415	100	1		1		1	15	mbl	Belt		5	5000								balance1		10	10	hp		-75	-75	mana		-40	-40	lifesteal		10	12	manasteal		10	12																														0
+Fangskin's Belt2	1416	100	1		1		1	36	zmb	Mesh Belt		5	5000								balance1		15	20	regen		-150	-150	mana		-70	-70	lifesteal		15	17	manasteal		15	17																														0
+Fangskin's Belt3	1417	100	1		1		1	58	umc	mithril coil		5	5000								balance1		20	25	regen		-300	-300	mana		-125	-125	lifesteal		20	22	manasteal		20	22																														0
 Fire Eye's Boots1	1418	100	1		1		1	16	mbt	Chain Boots		5	5000	cred	cred						move1		15	20	oskill	Blaze	5	5	balance1		15	20	res-fire		15	25	sock	1																																0
 Fire Eye's Boots2	1419	100	1		1		1	36	xmb	Mesh Boots		5	5000	cred	cred						move1		20	25	oskill	Blaze	10	10	balance1		20	25	res-fire		25	30	sock	1																																0
 Fire Eye's Boots3	1420	100	1		1		1	59	umb	boneweave boots		5	5000	cred	cred						move1		25	30	oskill	Blaze	15	15	balance1		25	30	res-fire		35	40	sock	1																																0
