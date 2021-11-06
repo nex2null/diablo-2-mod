@@ -524,9 +524,9 @@ Treehead Woodfist Hell Craft	1			100	3	12	54		2	armo	tw3						"usetype,rar"		100
 Creeping Feature Normal Craft	1			100	4	12	31		2	weap	cf1						"usetype,rar"		100		lifesteal	100		3	5	dmg%	100		50	100																																																																										0
 Creeping Feature Nightmare Craft	1			100	4	12	56		2	weap	cf2						"usetype,rar"		100		lifesteal	100		5	7	dmg%	100		100	150																																																																										0
 Creeping Feature Hell Craft	1			100	3	12	54		2	weap	cf3						"usetype,rar"		100		lifesteal	100		7	9	dmg%	100		175	225																																																																										0
-Beetleburst Normal Craft	1			100	4	12	31		2	helm	bb1						"usetype,rar"		100		gethit-skill	100	42	5	1	dmg-ltng	100		1	15																																																																										0
-Beetleburst Nightmare Craft	1			100	4	12	56		2	helm	bb2						"usetype,rar"		100		gethit-skill	100	42	10	4	dmg-ltng	100		5	75																																																																										0
-Beetleburst Hell Craft	1			100	3	12	54		2	helm	bb3						"usetype,rar"		100		gethit-skill	100	42	15	7	dmg-ltng	100		10	150																																																																										0
+Beetleburst Normal Craft	1			100	4	12	31		2	armo	bb1						"usetype,rar"		100		gethit-skill	100	42	5	1	dmg-ltng	100		1	15																																																																										0
+Beetleburst Nightmare Craft	1			100	4	12	56		2	armo	bb2						"usetype,rar"		100		gethit-skill	100	42	10	4	dmg-ltng	100		5	75																																																																										0
+Beetleburst Hell Craft	1			100	3	12	54		2	armo	bb3						"usetype,rar"		100		gethit-skill	100	42	15	7	dmg-ltng	100		10	150																																																																										0
 Kaa Normal Craft	1			100	4	12	31		2	rin	ka1						"usetype,rar"		100		oskill	100	75	4	4																																																																															0
 Kaa Nightmare Craft	1			100	4	12	56		2	rin	ka2						"usetype,rar"		100		oskill	100	75	8	8																																																																															0
 Kaa Hell Craft	1			100	3	12	54		2	rin	ka3						"usetype,rar"		100		oskill	100	75	12	12																																																																															0

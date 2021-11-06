@@ -131,7 +131,7 @@
 
 # Act 1 - Coldcrow
 <div class="item-name-container">
-  <span class="item-name">Coldcrow's Quiver</span>
+  <span class="item-name">Coldcrow's Frozen Quiver</span>
 </div>
 
 <div class="item-container">
@@ -485,7 +485,7 @@
   <div class="difficulty-level"><strong>Normal</strong></div>
   <div class="item-stats">
     <div class="item-name">Large Charm</div>
-    <div class="stat">+20-25% Faster Run/Walk</div>
+    <div class="stat">+20% Faster Run/Walk</div>
   </div>
 </div>
 
@@ -493,7 +493,7 @@
   <div class="difficulty-level"><strong>Nightmare</strong></div>
   <div class="item-stats">
     <div class="item-name">Large Charm</div>
-    <div class="stat">+25-30% Faster Run/Walk</div>
+    <div class="stat">+30% Faster Run/Walk</div>
   </div>
 </div>
 
@@ -501,8 +501,412 @@
   <div class="difficulty-level"><strong>Hell</strong></div>
   <div class="item-stats">
     <div class="item-name">Large Charm</div>
-    <div class="stat">+35-40% Faster Run/Walk</div>
+    <div class="stat">+40% Faster Run/Walk</div>
   </div>
 </div>
 <div class="page-break"></div>
-&nbsp;
+
+# Act 2 - Radament
+<div class="item-name-container">
+  <span class="item-name">Radament's Scarab</span>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Amulet</div>
+    <div class="stat">+3-4 to Raise Skeletal Mage</div>
+    <div class="stat">+3-4 to Skeleton Mastery</div>
+    <div class="stat">Magic Resist +5-10%</div>
+    <div class="stat">All Resistances +10-15</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Amulet</div>
+    <div class="stat">+5-6 to Raise Skeletal Mage</div>
+    <div class="stat">+4-5 to Skeleton Mastery</div>
+    <div class="stat">Magic Resist +11-15%</div>
+    <div class="stat">All Resistances +16-20</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Amulet</div>
+    <div class="stat">+7-10 to Raise Skeletal Mage</div>
+    <div class="stat">+5-6 to Skeleton Mastery</div>
+    <div class="stat">Magic Resist +16-20%</div>
+    <div class="stat">All Resistances +20-25</div>
+  </div>
+</div>
+<div class="page-break"></div>
+
+# Act 2 - Creeping Feature
+<div class="item-name-container">
+  <span class="item-name">Creeping Feature's Soul</span>
+  <div class="soul-description">Cube with Any Weapon -> Leeching / Damage Weapon</div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="stat">3-5% Life Stolen per Hit</div>
+    <div class="stat">+50-100% Enhanced Damage</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="stat">5-7% Life Stolen per Hit</div>
+    <div class="stat">+100-150% Enhanced Damage</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="stat">7-9% Life Stolen per Hit</div>
+    <div class="stat">+175-225% Enhanced Damage</div>
+  </div>
+</div>
+<div class="page-break"></div>
+
+# Act 2 - Bloodwitch the Wild
+<div class="item-name-container">
+  <span class="item-name">Bloodwitch's Barrage</span>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Composite Bow</div>
+    <div class="stat">+75-100% Enhanced Damage</div>
+    <div class="stat">+20-25% Increased Attack Speed</div>
+    <div class="stat">2% Chance to Cast Level 3 Burst Of Speed on Attack</div>
+    <div class="stat">3-4% Life Stolen per Hit</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Double Bow</div>
+    <div class="stat">+100-125% Enhanced Damage</div>
+    <div class="stat">+25-30% Increased Attack Speed</div>
+    <div class="stat">2% Chance to Cast Level 5 Burst Of Speed on Attack</div>
+    <div class="stat">4-5% Life Stolen per Hit</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Great Bow</div>
+    <div class="stat">+150-175% Enhanced Damage</div>
+    <div class="stat">+30-35% Increased Attack Speed</div>
+    <div class="stat">2% Chance to Cast Level 7 Burst Of Speed on Attack</div>
+    <div class="stat">5-7% Life Stolen per Hit</div>
+  </div>
+</div>
+<div class="page-break"></div>
+
+# Act 2 - Beetleburst
+<div class="item-name-container">
+  <span class="item-name">Beetleburst's Soul</span>
+  <div class="soul-description">Cube with Any Armor -> Static Field Armor</div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="stat">5% Chance to Cast Level 1 Static Field When Struck</div>
+    <div class="stat">Adds 1-15 Lightning Damage</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="stat">10% Chance to Cast Level 4 Static Field When Struck</div>
+    <div class="stat">Adds 5-75 Lightning Damage</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="stat">15% Chance to Cast Level 7 Static Field When Struck</div>
+    <div class="stat">Adds 10-150 Lightning Damage</div>
+  </div>
+</div>
+<div class="page-break"></div>
+
+# Act 2 - Coldworm the Burrower
+<div class="item-name-container">
+  <span class="item-name">Coldworm's Carapace</span>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Splint Mail</div>
+    <div class="stat">5% Chance to Cast Level 3 Frost Nova When Struck</div>
+    <div class="stat">Cold Resist +15-20%</div>
+    <div class="stat">5% Chance to Cast Level 5 Ice Bolt on Attack</div>
+    <div class="stat">+3 to Frozen Armor</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Russet Armor</div>
+    <div class="stat">10% Chance to Cast Level 3 Frost Nova When Struck</div>
+    <div class="stat">Cold Resist +25-30%</div>
+    <div class="stat">5% Chance to Cast Level 5 Ice Blast on Attack</div>
+    <div class="stat">+3 to Shiver Armor</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Balrog Skin</div>
+    <div class="stat">15% Chance to Cast Level 3 Frost Nova When Struck</div>
+    <div class="stat">Cold Resist +35-40%</div>
+    <div class="stat">5% Chance to Cast Level 5 Glacial Spike on Attack</div>
+    <div class="stat">+3 to Chilling Armor</div>
+  </div>
+</div>
+<div class="page-break"></div>
+
+# Act 2 - Dark Elder
+<div class="item-name-container">
+  <span class="item-name">Dark Elder's Spine</span>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Short Spear</div>
+    <div class="stat">+50-75% Enhanced Damage</div>
+    <div class="stat">+120 Poison Damage Over 4 Seconds</div>
+    <div class="stat">+10% Increased Attack Speed</div>
+    <div class="stat">Poison Resist +10-20%</div>
+    <div class="stat">Replenishes Quantity</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Simbilan</div>
+    <div class="stat">+100-150% Enhanced Damage</div>
+    <div class="stat">+230 Poison Damage Over 4 Seconds</div>
+    <div class="stat">+15% Increased Attack Speed</div>
+    <div class="stat">Poison Resist +20-30%</div>
+    <div class="stat">Replenishes Quantity</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Balrog Spear</div>
+    <div class="stat">+150-200% Enhanced Damage</div>
+    <div class="stat">+470 Poison Damage Over 4 Seconds</div>
+    <div class="stat">+20% Increased Attack Speed</div>
+    <div class="stat">Poison Resist +35-50%</div>
+    <div class="stat">Replenishes Quantity</div>
+  </div>
+</div>
+<div class="page-break"></div>
+
+# Act 2 - Fangskin
+<div class="item-name-container">
+  <span class="item-name">Fangskin's Thirst</span>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Belt</div>
+    <div class="stat">+10% Faster Hit Recovery</div>
+    <div class="stat">-75 to Life</div>
+    <div class="stat">-40 to Mana</div>
+    <div class="stat">10-12% Life Stolen per Hit</div>
+    <div class="stat">5-6% Mana Stolen per Hit</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Mesh Belt</div>
+    <div class="stat">+15-20% Faster Hit Recovery</div>
+    <div class="stat">-150 to Life</div>
+    <div class="stat">-70 to Mana</div>
+    <div class="stat">15-17% Life Stolen per Hit</div>
+    <div class="stat">7-8% Mana Stolen per Hit</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Mithril Coil</div>
+    <div class="stat">+20-25% Faster Hit Recovery</div>
+    <div class="stat">-225 to Life</div>
+    <div class="stat">-125 to Mana</div>
+    <div class="stat">20-22% Life Stolen per Hit</div>
+    <div class="stat">9-10% Mana Stolen per Hit</div>
+  </div>
+</div>
+<div class="page-break"></div>
+
+# Act 2 - Fire Eye
+<div class="item-name-container">
+  <span class="item-name">Fire Eye's Molten Step</span>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Chain Boots</div>
+    <div class="stat">+15-20% Faster Run/Walk</div>
+    <div class="stat">+5 to Blaze</div>
+    <div class="stat">+15-20% Faster Hit Recovery</div>
+    <div class="stat">Fire Resist +15-25%</div>
+    <div class="sockets">1 Socket</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Mesh Boots</div>
+    <div class="stat">+20-25% Faster Run/Walk</div>
+    <div class="stat">+10 to Blaze</div>
+    <div class="stat">+20-25% Faster Hit Recovery</div>
+    <div class="stat">Fire Resist +25-30%</div>
+    <div class="sockets">1 Socket</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Boneweave Boots</div>
+    <div class="stat">+25-30% Faster Run/Walk</div>
+    <div class="stat">+15 to Blaze</div>
+    <div class="stat">+25-30% Faster Hit Recovery</div>
+    <div class="stat">Fire Resist +35-40%</div>
+    <div class="sockets">1 Socket</div>
+  </div>
+</div>
+<div class="page-break"></div>
+
+# Act 2 - The Summoner
+<div class="item-name-container">
+  <span class="item-name">The Summoner's Skull</span>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Bone Helm</div>
+    <div class="stat">-3-5% to Enemy Fire Resistance</div>
+    <div class="stat">-3-5% to Enemy Lightning Resistance</div>
+    <div class="stat">-3-5% to Enemy Cold Resistance</div>
+    <div class="stat">-3-5% to Enemy Poison Resistance</div>
+    <div class="stat">Regenerate Mana 30%</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Grim Helm</div>
+    <div class="stat">-8-12% to Enemy Fire Resistance</div>
+    <div class="stat">-8-12% to Enemy Lightning Resistance</div>
+    <div class="stat">-8-12% to Enemy Cold Resistance</div>
+    <div class="stat">-8-12% to Enemy Poison Resistance</div>
+    <div class="stat">Regenerate Mana 40%</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Bone Visage</div>
+    <div class="stat">-15-20% to Enemy Fire Resistance</div>
+    <div class="stat">-15-20% to Enemy Lightning Resistance</div>
+    <div class="stat">-15-20% to Enemy Cold Resistance</div>
+    <div class="stat">-15-20% to Enemy Poison Resistance</div>
+    <div class="stat">Regenerate Mana 50%</div>
+  </div>
+</div>
+<div class="page-break"></div>
+
+# Act 2 - Ancient Kaa the Soulless
+<div class="item-name-container">
+  <span class="item-name">Ancient Kaa's Hollow Soul</span>
+  <div class="soul-description">Cube with Any Ring -> Clay Golem Ring</div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="stat">+4 to Clay Golem</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="stat">+8 to Clay Golem</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="stat">+12 to Clay Golem</div>
+  </div>
+</div>
+<div class="page-break"></div>
+
+# Act 2 - Duriel
+<div class="item-name-container">
+  <span class="item-name">Duriel's Unending Assault</span>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Large Charm</div>
+    <div class="stat">+15% Increased Attack Speed</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Large Charm</div>
+    <div class="stat">+20% Increased Attack Speed</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Large Charm</div>
+    <div class="stat">+25% Increased Attack Speed</div>
+  </div>
+</div>
+<div class="page-break"></div>
