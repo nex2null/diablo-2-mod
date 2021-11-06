@@ -48962,7 +48962,7 @@
   {
     "id": 28603,
     "Key": "Brooch of the Raven1",
-    "enUS": "Bloodraven's Flock",
+    "enUS": "Blood Raven's Flock",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -48979,7 +48979,7 @@
   {
     "id": 28604,
     "Key": "Brooch of the Raven2",
-    "enUS": "Bloodraven's Flock (N)",
+    "enUS": "Blood Raven's Flock (N)",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -48996,7 +48996,7 @@
   {
     "id": 28605,
     "Key": "Brooch of the Raven3",
-    "enUS": "Bloodraven's Flock (H)",
+    "enUS": "Blood Raven's Flock (H)",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -49625,7 +49625,7 @@
   {
     "id": 28642,
     "Key": "bb1Description",
-    "enUS": "ÿc1(Requires character level 30 or less)\nÿc0Cube with Any Helmet -> Static Field Helmet",
+    "enUS": "ÿc1(Requires character level 30 or less)\nÿc0Cube with Any Armor -> Static Field Armor",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -49642,7 +49642,7 @@
   {
     "id": 28643,
     "Key": "bb2Description",
-    "enUS": "ÿc1(Requires character level 55 or less)\nÿc0Cube with Any Helmet -> Static Field Helmet",
+    "enUS": "ÿc1(Requires character level 55 or less)\nÿc0Cube with Any Armor -> Static Field Armor",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -49659,7 +49659,7 @@
   {
     "id": 28644,
     "Key": "bb3Description",
-    "enUS": "ÿc1(Requires character level 55 or more)\nÿc0Cube with Any Helmet -> Static Field Helmet",
+    "enUS": "ÿc1(Requires character level 55 or more)\nÿc0Cube with Any Armor -> Static Field Armor",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -49931,7 +49931,7 @@
   {
     "id": 28660,
     "Key": "ka1",
-    "enUS": "ÿc8Ancient Kaa's Soul",
+    "enUS": "ÿc8Ancient Kaa's Hollow Soul",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -49948,7 +49948,7 @@
   {
     "id": 28661,
     "Key": "ka2",
-    "enUS": "ÿc8Ancient Kaa's Soul (N)",
+    "enUS": "ÿc8Ancient Kaa's Hollow Soul (N)",
     "zhTW": "",
     "deDE": "",
     "esES": "",
@@ -49965,7 +49965,7 @@
   {
     "id": 28662,
     "Key": "ka3",
-    "enUS": "ÿc8Ancient Kaa's Soul (H)",
+    "enUS": "ÿc8Ancient Kaa's Hollow Soul (H)",
     "zhTW": "",
     "deDE": "",
     "esES": "",
