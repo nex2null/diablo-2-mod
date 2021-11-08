@@ -911,3 +911,128 @@
 </div>
 <div class="page-break"></div>
 &nbsp;
+
+# Act 3 - Sszark the Burning
+<div class="item-name-container">
+  <span class="item-name">Sszark's Inferno</span>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Battle Axe</div>
+    <div class="stat">+60-90% Enhanced Damage</div>
+    <div class="stat">+25-50 Fire Damage</div>
+    <div class="stat">5% Chance to Cast Level 2 Firewall on Attack</div>
+    <div class="stat">5% Chance to Cast Level 4 Fissure on Attack</div>
+    <div class="stat">Prevents Monster Healing</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Twin Axe</div>
+    <div class="stat">+75-125% Enhanced Damage</div>
+    <div class="stat">+50-75 Fire Damage</div>
+    <div class="stat">5% Chance to Cast Level 4 Firewall on Attack</div>
+    <div class="stat">5% Chance to Cast Level 9 Fissure on Attack</div>
+    <div class="stat">Prevents Monster Healing</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Tabar</div>
+    <div class="stat">+125-175% Enhanced Damage</div>
+    <div class="stat">+75-100 Fire Damage</div>
+    <div class="stat">5% Chance to Cast Level 7 Firewall on Attack</div>
+    <div class="stat">5% Chance to Cast Level 13 Fissure on Attack</div>
+    <div class="stat">Prevents Monster Healing</div>
+  </div>
+</div>
+<div class="page-break"></div>
+
+# Act 3 - Witch Doctor Endugu
+<div class="item-name-container">
+  <span class="item-name">The Doctor's Orders</span>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Leather Gloves</div>
+    <div class="stat">25% Reanimate as Flayer</div>
+    <div class="stat">+100-125 Defense vs Missile</div>
+    <div class="stat">Level 2-3 Might Aura When Equipped</div>
+    <div class="stat">10-15% Deadly Strike</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Demonhide Gloves</div>
+    <div class="stat">25% Reanimate as Soul Killer</div>
+    <div class="stat">+150-175 Defense vs Missile</div>
+    <div class="stat">Level 2-4 Might Aura When Equipped</div>
+    <div class="stat">15-20% Deadly Strike</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Bramble Mitts</div>
+    <div class="stat">25% Reanimate as Stygian Doll</div>
+    <div class="stat">+200-225 Defense vs Missile</div>
+    <div class="stat">Level 3-5 Might Aura When Equipped</div>
+    <div class="stat">20-25% Deadly Strike</div>
+  </div>
+</div>
+<div class="page-break"></div>
+
+# Act 3 - Stormtree
+<div class="item-name-container">
+  <span class="item-name">Stormtree's Bramble</span>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Spiked Shield</div>
+    <div class="stat">Level 8-10 Thorns Aura When Equipped</div>
+    <div class="stat">Attacker Takes Damage of 25-30</div>
+    <div class="stat">Attacker Takes Lightning Damage of 25-30</div>
+    <div class="stat">Attacker Takes Fire Damage of 25-30</div>
+    <div class="stat">+1 to Lethargy (-75% Increased Attack Speed)</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Barbed Shield</div>
+    <div class="stat">Level 12-15 Thorns Aura When Equipped</div>
+    <div class="stat">+12-15 to Spirit of Barbs</div>
+    <div class="stat">Attacker Takes Damage of 50-75</div>
+    <div class="stat">Attacker Takes Lightning Damage of 50-75</div>
+    <div class="stat">Attacker Takes Fire Damage of 50-75</div>
+    <div class="stat">+1 to Lethargy (-75% Increased Attack Speed)</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Blade Barrier</div>
+    <div class="stat">Level 16-20 Thorns Aura When Equipped</div>
+    <div class="stat">+16-20 to Spirit of Barbs</div>
+    <div class="stat">Attacker Takes Damage of 150-200</div>
+    <div class="stat">Attacker Takes Lightning Damage of 150-200</div>
+    <div class="stat">Attacker Takes Fire Damage of 150-200</div>
+    <div class="stat">+1 to Lethargy (-75% Increased Attack Speed)</div>
+  </div>
+</div>
+<div class="page-break"></div>

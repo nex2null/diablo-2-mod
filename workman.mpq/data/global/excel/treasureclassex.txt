@@ -920,3 +920,12 @@ Kaa (H)			1					0	Act 2 (H) Super C	7	ka3	1
 Duriel			1					0	Duriel1	7	Duriel's Charm1	1																				
 Duriel (N)			1					0	Duriel (N)1	7	Duriel's Charm2	1																				
 Duriel (H)			1					0	Duriel (H)1	7	Duriel's Charm3	1																				
+Sszark			1					0	Act 3 Super A	7	Sszark's Axe1	1																				
+Sszark (N)			1					0	Act 3 (N) Super A	7	Sszark's Axe2	1																				
+Sszark (H)			1					0	Act 3 (H) Super A	7	Sszark's Axe3	1																				
+Endugu			1					0	Act 3 Super B	7	Endugu's Gloves1	100																				
+Endugu (N)			1					0	Act 3 (N) Super B	7	Endugu's Gloves2	1																				
+Endugu (H)			1					0	Act 3 (H) Super B	7	Endugu's Gloves3	1																				
+Stormtree			1					0	Act 3 Super B	7	Stormtree's Shield1	1000																				
+Stormtree (N)			1					0	Act 3 (N) Super B	7	Stormtree's Shield2	1																				
+Stormtree (H)			1					0	Act 3 (H) Super B	7	Stormtree's Shield3	1																				
