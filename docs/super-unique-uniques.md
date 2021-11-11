@@ -1036,3 +1036,44 @@
   </div>
 </div>
 <div class="page-break"></div>
+
+# Act 3 - Battlemaid Sarina
+<div class="item-name-container">
+  <span class="item-name">Dance of the Battlemaiden</span>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Long Sword</div>
+    <div class="stat">25% Chance to Cast Level 1 Blade Spray on Attack</div>
+    <div class="stat">+30-35% Increased Attack Speed</div>
+    <div class="stat">+50-75% Enhanced Damage</div>
+    <div class="stat">Requirements -50%</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Rune Sword</div>
+    <div class="stat">25% Chance to Cast Level 1 Blade Spray on Attack</div>
+    <div class="stat">+6-8 to Blade Shield</div>
+    <div class="stat">+35-40% Increased Attack Speed</div>
+    <div class="stat">+100-125% Enhanced Damage</div>
+    <div class="stat">Requirements -50%</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Cryptic Sword</div>
+    <div class="stat">25% Chance to Cast Level 1 Blade Spray on Attack</div>
+    <div class="stat">+12-14 to Blade Shield</div>
+    <div class="stat">+40-45% Increased Attack Speed</div>
+    <div class="stat">+150-200% Enhanced Damage</div>
+    <div class="stat">Requirements -50%</div>
+  </div>
+</div>
+<div class="page-break"></div>

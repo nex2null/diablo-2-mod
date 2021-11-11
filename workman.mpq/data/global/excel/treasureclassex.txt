@@ -929,3 +929,6 @@ Endugu (H)			1					0	Act 3 (H) Super B	7	Endugu's Gloves3	1
 Stormtree			1					0	Act 3 Super B	7	Stormtree's Shield1	1000																				
 Stormtree (N)			1					0	Act 3 (N) Super B	7	Stormtree's Shield2	1																				
 Stormtree (H)			1					0	Act 3 (H) Super B	7	Stormtree's Shield3	1																				
+Sarina			1					0	Act 3 Super B	7	Battlemaid's Sword1	1000																				
+Sarina (N)			1					0	Act 3 (N) Super B	7	Battlemaid's Sword2	1																				
+Sarina (H)			1					0	Act 3 (H) Super B	7	Battlemaid's Sword3	1																				

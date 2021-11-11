@@ -1434,3 +1434,6 @@ Endugu's Gloves3	1428	100	1		1		1	60	ulg	bramble mitts		5	5000	lpur	lpur						re
 Stormtree's Shield1	1429	100	1		1		1	19	spk	Spiked Shield		5	5000								aura	Thorns	8	10	thorns		25	30	light-thorns		25	30	fire-thorns		25	30	oskill	Lethargy	1	1																														0
 Stormtree's Shield2	1430	100	1		1		1	38	xpk	Barbed Shield		5	5000								aura	Thorns	12	15	oskill	Spirit of Barbs	12	15	thorns		50	75	light-thorns		50	75	fire-thorns		15	20	oskill	Lethargy	1	1																										0
 Stormtree's Shield3	1431	100	1		1		1	60	upk	Blade Barrier		5	5000								aura	Thorns	16	20	oskill	Spirit of Barbs	16	20	thorns		150	200	light-thorns		150	200	fire-thorns		15	20	oskill	Lethargy	1	1																										0
+Battlemaid's Sword1	1432	100	1		1		1	19	lsd	Long Sword		5	5000	whit	whit						att-skill	367	25	1	swing1		30	35	dmg%		50	75	ease		-50	-50																																		0
+Battlemaid's Sword2	1433	100	1		1		1	38	9ls	Rune Sword		5	5000	whit	whit						att-skill	367	25	1	oskill	Blade Shield	6	8	swing1		35	40	dmg%		100	125																																		0
+Battlemaid's Sword3	1434	100	1		1		1	60	7ls	cryptic sword		5	5000	whit	whit						att-skill	367	25	1	oskill	Blade Shield	12	14	swing1		40	45	dmg%		150	200																																		0

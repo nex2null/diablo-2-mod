@@ -229,3 +229,4 @@ map	0	0	0	0	2	SkillNameMap	SkillDescMap	SkillDescMap	SkillNameMap															
 showitems	0	0	0	0	2	SkillNameShowItems	SkillDescShowItems	SkillDescShowItems	SkillNameShowItems																																																																																																											0
 runtoggle	0	0	0	0	2	SkillNameRunToggle	SkillDescRunToggle	SkillDescRunToggle	SkillNameRunToggle																																																																																																											0
 lethargy	0	0	0	0	0	SkillNameLethargy	SkillNameLethargy	SkillNameLethargy	SkillNameLethargy																																																																																																											0
+blade spray	0	0	0	0	0	SkillNameBladeSpray	SkillNameBladeSpray	SkillNameBladeSpray	SkillNameBladeSpray																																																																																																											0
