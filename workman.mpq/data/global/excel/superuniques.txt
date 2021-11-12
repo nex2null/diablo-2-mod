@@ -20,11 +20,11 @@ Dark Elder	Dark Elder	darkelder	17		6	8	0	4	4	1	0	1	27	27	27	Dark Elder	Dark Eld
 The Summoner	The Summoner	summoner	18		5	6	0	0	0	1	0		26	26	26	Summoner	Summoner (N)	Summoner (H)	0
 Ancient Kaa the Soulless	Ancient Kaa the Soulless	unraveler3	19		25	5	17	3	3	1	0		11	11	11	Kaa	Kaa (N)	Kaa (H)	0
 The Smith	The Smith	smith	20	smith	5	0	0	0	0	1	0		26	26	26	Smith	Smith (N)	Smith (H)	0
-Web Mage the Burning	Web Mage the Burning	arach4	21		5	7	0	5	5	1	0		19	19	19	Act 3 Super A	Act 3 (N) Super A	Act 3 (H) Super A	0
-Witch Doctor Endugu	Witch Doctor Endugu	fetishshaman4	22		8	9	0	6	6	1	0		20	20	20	Act 3 Super B	Act 3 (N) Super B	Act 3 (H) Super B	0
-Stormtree	Stormtree	thornhulk3	23		6	17	0	4	4	1	0	1	35	35	35	Act 3 Super B	Act 3 (N) Super B	Act 3 (H) Super B	0
-Sarina the Battlemaid	Sarina the Battlemaid	corruptrogue5	24		6	27	0	9	9	1	0	1	36	36	36	Act 3 Super B	Act 3 (N) Super B	Act 3 (H) Super B	0
-Icehawk Riftwing	Icehawk Riftwing	batdemon3	25		18	26	0	7	7	1	0		21	21	21	Act 3 Super A	Act 3 (N) Super A	Act 3 (H) Super A	0
+Web Mage the Burning	Web Mage the Burning	arach4	21		5	7	0	5	5	1	0		19	19	19	Sszark	Sszark (N)	Sszark (H)	0
+Witch Doctor Endugu	Witch Doctor Endugu	fetishshaman4	22		8	9	0	6	6	1	0		20	20	20	Endugu	Endugu (N)	Endugu (H)	0
+Stormtree	Stormtree	thornhulk3	23		6	17	0	4	4	1	0	1	35	35	35	Stormtree	Stormtree (N)	Stormtree (H)	0
+Sarina the Battlemaid	Sarina the Battlemaid	corruptrogue5	24		6	27	0	9	9	1	0	1	36	36	36	Sarina	Sarina (N)	Sarina (H)	0
+Icehawk Riftwing	Icehawk Riftwing	batdemon3	25		18	26	0	7	7	1	0		21	21	21	Riftwing	Riftwing (N)	Riftwing (H)	0
 Ismail Vilehand	Ismail Vilehand	councilmember1	26		6	7	0	2	2	1	0		36	36	36	Council	Council (N)	Council (H)	0
 Geleb Flamefinger	Geleb Flamefinger	councilmember2	27		5	9	0	2	2	1	0		37	37	37	Council	Council (N)	Council (H)	0
 Bremm Sparkfist	Bremm Sparkfist	councilmember3	28		30	17	0	2	2	1	0		22	22	22	Council	Council (N)	Council (H)	0
