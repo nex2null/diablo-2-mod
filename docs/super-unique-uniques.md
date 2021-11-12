@@ -1125,7 +1125,7 @@
 </div>
 <div class="page-break"></div>
 
-# Act 2 - Mephisto
+# Act 3 - Mephisto
 <div class="item-name-container">
   <span class="item-name">Mephisto's Sorcery</span>
 </div>
@@ -1151,6 +1151,107 @@
   <div class="item-stats">
     <div class="item-name">Large Charm</div>
     <div class="stat">+25% Faster Cast Rate</div>
+  </div>
+</div>
+<div class="page-break"></div>
+&nbsp;
+
+# Act 4 - Izual
+<div class="item-name-container">
+  <span class="item-name">Izual's Betrayal</span>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Ring</div>
+    <div class="stat">25% Chance to Cast Level 5 Iron Maiden When Struck</div>
+    <div class="stat">10% Chance to Cast Level 4 Confuse on Attack</div>
+    <div class="stat">+7-10 to All Attributes</div>
+    <div class="stat">All Resistances +7-10</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Ring</div>
+    <div class="stat">25% Chance to Cast Level 10 Iron Maiden When Struck</div>
+    <div class="stat">15% Chance to Cast Level 4 Confuse on Attack</div>
+    <div class="stat">+10-15 to All Attributes</div>
+    <div class="stat">All Resistances +10-15</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Ring</div>
+    <div class="stat">25% Chance to Cast Level 15 Iron Maiden When Struck</div>
+    <div class="stat">20% Chance to Cast Level 4 Confuse on Attack</div>
+    <div class="stat">+10-20 to All Attributes</div>
+    <div class="stat">All Resistances +10-20</div>
+  </div>
+</div>
+<div class="page-break"></div>
+
+# Act 4 - Hephasto
+<div class="item-name-container">
+  <span class="item-name">Hephasto's Soul</span>
+  <div class="soul-description">Cube with Any Armor -> Defense Armor</div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="stat">+1 Defense per Level</div>
+    <div class="stat">+50% Enhanced Defense</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="stat">+1.5 Defense per Level</div>
+    <div class="stat">+75% Enhanced Defense</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="stat">+2 Defense per Level</div>
+    <div class="stat">+100% Enhanced Defense</div>
+  </div>
+</div>
+<div class="page-break"></div>
+
+# Act 4 - Diablo
+<div class="item-name-container">
+  <span class="item-name">Diablo's Relentlessness</span>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Large Charm</div>
+    <div class="stat">+75 to Life</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Large Charm</div>
+    <div class="stat">+100 to Life</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Large Charm</div>
+    <div class="stat">+125 to Life</div>
   </div>
 </div>
 <div class="page-break"></div>

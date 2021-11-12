@@ -1441,3 +1441,7 @@ Riftwing's Dagger1	1435	100	1		1		1	20	kri	Kris		5	5000	lyel	lyel						att-skill
 Riftwing's Dagger2	1436	100	1		1		1	39	9kr	Cinquedeas		5	5000	lyel	lyel						att-skill	245	20	5	swing1		20	25	dmg-cold		20	30	slow		25	25	stupidity		20	25																														0
 Riftwing's Dagger3	1437	100	1		1		1	60	7kr	fanged knife		5	5000	lyel	lyel						att-skill	245	20	10	swing1		25	30	dmg-cold		40	60	slow		25	25	stupidity		20	25																														0
 Mephisto's Charm1	1438	100	1		1		1	21	cm2	Large Charm	1	5	5000								cast1		15	15																																														0
+Izual's Ring1	1439	100	1		1		1	21	rin	Ring		5	5000								att-skill	81	10	4	gethit-skill	76	25	5	all-stats		7	10	res-all		7	10																																		0
+Izual's Ring2	1440	100	1		1		1	40	rin	Ring		5	5000								att-skill	81	15	4	gethit-skill	76	25	10	all-stats		10	15	res-all		10	15																																		0
+Izual's Ring3	1441	100	1		1		1	61	rin	Ring		5	5000								att-skill	81	20	4	gethit-skill	76	25	15	all-stats		10	20	res-all		10	20																																		0
+Diablo's Charm1	1442	100	1		1		1	24	cm2	Large Charm	1	5	5000								hp		75	75																																														0

@@ -692,9 +692,9 @@ Mephisto (H)1			7	983	983	983	1024	15	"gld,mul=2048"	5	Act 4 (H) Equip A	52	Act 
 Mephistoq			7	993	993	1024	1024	15	Act 4 Equip A	52	Act 4 Good	3																				0
 Mephistoq (N)			7	993	993	1024	1024	15	Act 4 (N) Equip A	52	Act 4 (N) Good	3																				0
 Mephistoq (H)			7	993	993	1024	1024	15	Act 4 (H) Equip A	52	Act 4 (H) Good	3	ceh	1																		0
-Diablo			7	983	983	983	1024	15	"gld,mul=1280"	5	Act 5 Equip A	52	Act 5 Junk	5	Act 5 Good	3																0
-Diablo (N)			7	983	983	983	1024	15	"gld,mul=1536"	5	Act 5 (N) Equip A	52	Act 5 (N) Junk	5	Act 5 (N) Good	3																0
-Diablo (H)			7	983	983	983	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip A	52	Act 5 (H) Junk	5	Act 5 (H) Good	3	bet	1														0
+Diablo1			7	983	983	983	1024	15	"gld,mul=1280"	5	Act 5 Equip A	52	Act 5 Junk	5	Act 5 Good	3																0
+Diablo (N)1			7	983	983	983	1024	15	"gld,mul=1536"	5	Act 5 (N) Equip A	52	Act 5 (N) Junk	5	Act 5 (N) Good	3																0
+Diablo (H)1			7	983	983	983	1024	15	"gld,mul=2048"	5	Act 5 (H) Equip A	52	Act 5 (H) Junk	5	Act 5 (H) Good	3	bet	1														0
 Diabloq			7	993	993	1024	1024	15	Act 5 Equip A	52	Act 5 Good	3																				0
 Diabloq (N)			7	993	993	1024	1024	15	Act 5 (N) Equip A	52	Act 5 (N) Good	3																				0
 Diabloq (H)			7	993	993	1024	1024	15	Act 5 (H) Equip A	52	Act 5 (H) Good	3	bet	1																		0
@@ -713,9 +713,9 @@ Cow (H)			1					100	gld	19	Act 5 (H) Equip B	19	Act 5 (H) Junk	19	Act 5 (H) Good
 Trapped Soul			1					100	gld	19	Act 4 Equip A	8	Act 4 Junk	33																		0
 Trapped Soul (N)			1					100	gld	19	Act 4 (N) Equip A	8	Act 4 (N) Junk	33																		0
 Trapped Soul (H)			1					100	gld	19	Act 4 (H) Equip A	8	Act 4 (H) Junk	33																		0
-Haphesto			5	800	800	900	1024	19	"gld,mul=1280"	14	Act 5 Equip A	19	Act 5 Junk	5	Act 5 Good	3																0
-Haphesto (N)			5	800	800	900	1024	19	"gld,mul=1536"	14	Act 5 (N) Equip A	19	Act 5 (N) Junk	5	Act 5 (N) Good	3																0
-Haphesto (H)			5	800	800	900	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip A	19	Act 5 (H) Junk	5	Act 5 (H) Good	3																0
+Haphesto1			5	800	800	900	1024	19	"gld,mul=1280"	14	Act 5 Equip A	19	Act 5 Junk	5	Act 5 Good	3																0
+Haphesto (N)1			5	800	800	900	1024	19	"gld,mul=1536"	14	Act 5 (N) Equip A	19	Act 5 (N) Junk	5	Act 5 (N) Good	3																0
+Haphesto (H)1			5	800	800	900	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip A	19	Act 5 (H) Junk	5	Act 5 (H) Good	3																0
 Nihlathak			5	900	900	900	1024	19	"gld,mul=1280"	14	Act 5 Equip B	19	Act 5 Junk	5	Act 5 Good	3																0
 Nihlathak (N)			5	900	900	900	1024	19	"gld,mul=1536"	14	Act 5 (N) Equip B	19	Act 5 (N) Junk	5	Act 5 (N) Good	3																0
 Nihlathak (H)			5	900	900	900	1024	19	"gld,mul=2048"	14	Act 5 (H) Equip B	19	Act 5 (H) Junk	5	Act 5 (H) Good	3	pk3	1														0
@@ -731,9 +731,9 @@ Blood Raven (H)1			5	800	800	972	1024	19	"gld,mul=2048"	14	Act 1 (H) Equip B	19	
 Smith1			-3					0	Act 1 Uitem C	1	Act 1 Melee B	2																				0
 Smith (N)1			-3					0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				0
 Smith (H)1			-3					0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																				0
-Izual			5	800	800	972	1024	19	"gld,mul=1280"	14	Act 4 Equip B	19	Act 4 Junk	5	Act 4 Good	3																0
-Izual (N)			5	800	800	972	1024	19	"gld,mul=1536"	14	Act 4 (N) Equip B	19	Act 4 (N) Junk	5	Act 4 (N) Good	3																0
-Izual (H)			5	800	800	972	1024	19	"gld,mul=2048"	14	Act 4 (H) Equip B	19	Act 4 (H) Junk	5	Act 4 (H) Good	3																0
+Izual1			5	800	800	972	1024	19	"gld,mul=1280"	14	Act 4 Equip B	19	Act 4 Junk	5	Act 4 Good	3																0
+Izual (N)1			5	800	800	972	1024	19	"gld,mul=1536"	14	Act 4 (N) Equip B	19	Act 4 (N) Junk	5	Act 4 (N) Good	3																0
+Izual (H)1			5	800	800	972	1024	19	"gld,mul=2048"	14	Act 4 (H) Equip B	19	Act 4 (H) Junk	5	Act 4 (H) Good	3																0
 Act 1 Super A	18	0	-4	800	800	972	1024	0	Act 1 Uitem A	2	Act 1 Cpot A	2																				0
 Act 1 Super B	18	5	-4	800	800	972	1024	0	Act 1 Uitem B	2	Act 1 Cpot B	2																				0
 Act 1 Super C	18	9	-4	800	800	972	1024	0	Act 1 Uitem C	2	Act 1 Cpot C	2																				0
@@ -833,8 +833,8 @@ Duriel (H)1			5					0	tsc	1	Duriel (H) - Base	2																				0
 Durielq			5					0	tsc	1	Durielq - Base	2																				0
 Durielq (N)			5					0	tsc	1	Durielq (N) - Base	2																				0
 Durielq (H)			5					0	tsc	1	Durielq (H) - Base	2																				0
-ROP			1	1024				0	Diablo	1																						0
-ROP (N)			1	1024				0	Diablo (N)	4	Annihilus	1																				0
+ROP			1	1024				0	Diablo1	1																						0
+ROP (N)			1	1024				0	Diablo (N)1	4	Annihilus	1																				0
 ROP (H)			1	1024				0	Annihilus	1																						0
 Countess Rune			3					5	Runes 4	15																						0
 Countess Rune (N)			3					5	Runes 8	15																						0
@@ -923,18 +923,27 @@ Duriel (H)			1					0	Duriel (H)1	7	Duriel's Charm3	1
 Sszark			1					0	Act 3 Super A	7	Sszark's Axe1	1																				
 Sszark (N)			1					0	Act 3 (N) Super A	7	Sszark's Axe2	1																				
 Sszark (H)			1					0	Act 3 (H) Super A	7	Sszark's Axe3	1																				
-Endugu			1					0	Act 3 Super B	7	Endugu's Gloves1	100																				
+Endugu			1					0	Act 3 Super B	7	Endugu's Gloves1	1																				
 Endugu (N)			1					0	Act 3 (N) Super B	7	Endugu's Gloves2	1																				
 Endugu (H)			1					0	Act 3 (H) Super B	7	Endugu's Gloves3	1																				
-Stormtree			1					0	Act 3 Super B	7	Stormtree's Shield1	1000																				
+Stormtree			1					0	Act 3 Super B	7	Stormtree's Shield1	1																				
 Stormtree (N)			1					0	Act 3 (N) Super B	7	Stormtree's Shield2	1																				
 Stormtree (H)			1					0	Act 3 (H) Super B	7	Stormtree's Shield3	1																				
-Sarina			1					0	Act 3 Super B	7	Battlemaid's Sword1	1000																				
+Sarina			1					0	Act 3 Super B	7	Battlemaid's Sword1	1																				
 Sarina (N)			1					0	Act 3 (N) Super B	7	Battlemaid's Sword2	1																				
 Sarina (H)			1					0	Act 3 (H) Super B	7	Battlemaid's Sword3	1																				
-Riftwing			1					0	Act 3 Super A	7	Riftwing's Dagger1	1000																				
+Riftwing			1					0	Act 3 Super A	7	Riftwing's Dagger1	1																				
 Riftwing (N)			1					0	Act 3 (N) Super A	7	Riftwing's Dagger2	1																				
 Riftwing (H)			1					0	Act 3 (H) Super A	7	Riftwing's Dagger3	1																				
-Mephisto			1					0	Mephisto1	7	Mephisto's Charm1	1000																				
+Mephisto			1					0	Mephisto1	7	Mephisto's Charm1	1																				
 Mephisto (N)			1					0	Mephisto (N)1	7	Mephisto's Charm1	1																				
 Mephisto (H)			1					0	Mephisto (H)1	7	Mephisto's Charm1	1																				
+Izual			1					0	Izual1	7	Izual's Ring1	1000																				
+Izual (N)			1					0	Izual (N)1	7	Izual's Ring2	1																				
+Izual (H)			1					0	Izual (H)1	7	Izual's Ring3	1																				
+Haphesto			1					0	Haphesto1	7	hh1	1000																				
+Haphesto (N)			1					0	Haphesto (N)1	7	hh2	1																				
+Haphesto (H)			1					0	Haphesto (H)1	7	hh3	1																				
+Diablo			1					0	Diablo1	7	Diablo's Charm1	1000																				
+Diablo (N)			1					0	Diablo (N)1	7	Diablo's Charm1	1																				
+Diablo (H)			1					0	Diablo (H)1	7	Diablo's Charm1	1																				
