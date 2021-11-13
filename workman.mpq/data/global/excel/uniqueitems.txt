@@ -1445,3 +1445,28 @@ Izual's Ring1	1439	100	1		1		1	21	rin	Ring		5	5000								att-skill	81	10	4	geth
 Izual's Ring2	1440	100	1		1		1	40	rin	Ring		5	5000								att-skill	81	15	4	gethit-skill	76	25	10	all-stats		10	15	res-all		10	15																																		0
 Izual's Ring3	1441	100	1		1		1	61	rin	Ring		5	5000								att-skill	81	20	4	gethit-skill	76	25	15	all-stats		10	20	res-all		10	20																																		0
 Diablo's Charm1	1442	100	1		1		1	24	cm2	Large Charm	1	5	5000								hp		75	75																																														0
+Dac's Boots1	1443	100	1		1		1	24	mbt	Chain Boots		5	5000								oskill	Dodge	2	3	ac		75	100	oskill	Avoid	1	1	dex		15	20	move1		20	25																														0
+Dac's Boots2	1444	100	1		1		1	40	xmb	Mesh Boots		5	5000								oskill	Dodge	2	4	ac		75	100	oskill	Avoid	1	2	dex		25	30	move1		25	30																														0
+Dac's Boots3	1445	100	1		1		1	61	umb	boneweave boots		5	5000								oskill	Dodge	3	5	ac		75	100	oskill	Avoid	2	4	dex		35	40	move1		30	35																														0
+Shenk's Polearm1	1446	100	1		1		1	25	scy	Scythe		5	5000	cred	cred						oskill	Taunt	5	5	att-skill	137	20	5	dmg%		50	75	heal-kill		15	20	sock	2																																0
+Shenk's Polearm2	1447	100	1		1		1	41	9s8	Battle Scythe		5	5000	cred	cred						oskill	Taunt	7	7	att-skill	137	20	7	dmg%		100	150	heal-kill		20	25	sock	2																																0
+Shenk's Polearm3	1448	100	1		1		1	61	7s8	thresher		5	5000	cred	cred						oskill	Taunt	10	10	att-skill	137	20	10	dmg%		150	200	heal-kill		25	30	sock	2																																0
+Eldritch's Armor1	1449	100	1		1		1	25	ltp	Light Plate		5	5000	cblu	cblu						mana/lvl	8			dmg-to-mana		10	15	charged	58	20	5	mana-kill		3	4																																		0
+Eldritch's Armor2	1450	100	1		1		1	41	xtp	Mage Plate		5	5000	cblu	cblu						mana/lvl	12			dmg-to-mana		15	20	oskill	Energy Shield	4	5	mana-kill		5	7																																		0
+Eldritch's Armor3	1451	100	1		1		1	61	utp	archon plate		5	5000	cblu	cblu						mana/lvl	16			dmg-to-mana		20	25	oskill	Energy Shield	8	10	mana-kill		8	10																																		0
+Sharptooth's Dagger1	1452	100	1		1		1	26	kri	Kris		5	5000	dred	dred						openwounds		50	50	oskill	Poison Dagger	8	10	dmg-pois	500	171	171	pierce-pois		4	7																																		0
+Sharptooth's Dagger2	1453	100	1		1		1	42	9kr	Cinquedeas		5	5000	dred	dred						openwounds		50	50	oskill	Poison Dagger	11	15	dmg-pois	500	342	342	pierce-pois		7	10																																		0
+Sharptooth's Dagger3	1454	100	1		1		1	61	7kr	fanged knife		5	5000	dred	dred						openwounds		50	50	oskill	Poison Dagger	15	20	dmg-pois	500	684	684	pierce-pois		10	15																																		0
+Eyeback's Amulet1	1455	100	1		1		1	26	amu	Amulet		5	5000								oskill	Plague Poppy	4	5	dmg-undead		75	100	res-all		10	15	rip		1	1																																		0
+Eyeback's Amulet2	1456	100	1		1		1	42	amu	Amulet		5	5000								oskill	Plague Poppy	8	10	dmg-undead		100	125	res-all		16	20	rip		1	1																																		0
+Eyeback's Amulet3	1457	100	1		1		1	62	amu	Amulet		5	5000								oskill	Plague Poppy	10	15	dmg-undead		125	150	res-all		20	25	rip		1	1																																		0
+Thresh Socket's Armor1	1458	100	1		1		1	27	gth	Gothic Plate		5	5000								str		40	50	crush/str	4			deadly/str	4			dmg-min/str	4																																				0
+Thresh Socket's Armor2	1459	100	1		1		1	43	xth	Embossed Plate		5	5000								str		50	70	crush/str	4			deadly/str	4			dmg-min/str	4																																				0
+Thresh Socket's Armor3	1460	100	1		1		1	62	uth	lacquered plate		5	5000								str		70	100	crush/str	4			deadly/str	4			dmg-min/str	4																																				0
+Frozenstein's Armor1	1461	100	1		1		1	27	chn	Chain Mail		5	5000	whit	whit						res-cold		40	50	oskill	Wearbear	4	5	oskill	Maul	4	5	dmg-cold	50	15	20	freeze		1	1																														0
+Frozenstein's Armor2	1462	100	1		1		1	43	xhn	Mesh Armor		5	5000	whit	whit						res-cold		50	60	oskill	Wearbear	8	10	oskill	Maul	8	10	dmg-cold	50	30	45	freeze		1	1																														0
+Frozenstein's Armor3	1463	100	1		1		1	62	uhn	Boneweave		5	5000	whit	whit						res-cold		60	75	oskill	Wearbear	10	15	oskill	Maul	10	15	dmg-cold	50	55	70	freeze		1	1																														0
+Bonesaw's Shield1	1464	100	1		1		1	28	bsh	Bone Shield		5	5000								oskill	Charge	8	10	manasteal		3	4	crush		8	12	block1		20	25	red-dmg%		8	12																														0
+Bonesaw's Shield2	1465	100	1		1		1	44	xsh	Grim Shield		5	5000								oskill	Charge	10	12	manasteal		3	5	crush		10	15	block1		25	30	red-dmg%		10	15																														0
+Bonesaw's Shield3	1466	100	1		1		1	63	ush	troll nest		5	5000								oskill	Charge	12	15	manasteal		4	6	crush		15	20	block1		30	40	red-dmg%		15	20																														0
+Baal's Charm1	1467	100	1		1		1	30	cm2	Large Charm	1	5	5000								allskills		1	1																																														0

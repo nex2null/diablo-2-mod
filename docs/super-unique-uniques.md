@@ -1256,3 +1256,389 @@
 </div>
 <div class="page-break"></div>
 &nbsp;
+
+# Act 5 - Dac Farren
+<div class="item-name-container">
+  <span class="item-name">Dac's Swiftness</span>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Chain Boots</div>
+    <div class="stat">+75-100 Defense</div>
+    <div class="stat">+2-3 to Dodge</div>
+    <div class="stat">+1 to Avoid</div>
+    <div class="stat">+15-20 to Dexterity</div>
+    <div class="stat">+20-25% Faster Run/Walk</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Mesh Boots</div>
+    <div class="stat">+75-100 Defense</div>
+    <div class="stat">+2-4 to Dodge</div>
+    <div class="stat">+1-2 to Avoid</div>
+    <div class="stat">+25-30 to Dexterity</div>
+    <div class="stat">+25-30% Faster Run/Walk</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Boneweave Boots</div>
+    <div class="stat">+75-100 Defense</div>
+    <div class="stat">+3-5 to Dodge</div>
+    <div class="stat">+2-4 to Avoid</div>
+    <div class="stat">+35-40 to Dexterity</div>
+    <div class="stat">+30-35% Faster Run/Walk</div>
+  </div>
+</div>
+<div class="page-break"></div>
+
+# Act 5 - Shenk the Overseer
+<div class="item-name-container">
+  <span class="item-name">Shenk's Commandment</span>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Scythe</div>
+    <div class="stat">+5 to Taunt</div>
+    <div class="stat">20% Chance to Cast Level 5 Taunt on Attack</div>
+    <div class="stat">+50-75% Enhanced Damage</div>
+    <div class="stat">+15-20 Life After Each Kill</div>
+    <div class="sockets">2 Sockets</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Battle Scythe</div>
+    <div class="stat">+7 to Taunt</div>
+    <div class="stat">20% Chance to Cast Level 7 Taunt on Attack</div>
+    <div class="stat">+100-150% Enhanced Damage</div>
+    <div class="stat">+20-25 Life After Each Kill</div>
+    <div class="sockets">2 Sockets</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Thresher</div>
+    <div class="stat">+10 to Taunt</div>
+    <div class="stat">20% Chance to Cast Level 10 Taunt on Attack</div>
+    <div class="stat">+150-200% Enhanced Damage</div>
+    <div class="stat">+25-30 Life After Each Kill</div>
+    <div class="sockets">2 Sockets</div>
+  </div>
+</div>
+<div class="page-break"></div>
+
+# Act 5 - Eldritch the Rectifier
+<div class="item-name-container">
+  <span class="item-name">Eldritch's Mental Fortitude</span>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Light Plate</div>
+    <div class="stat">+1 Mana per Level</div>
+    <div class="stat">10-15% Damage Taken Goes to Mana</div>
+    <div class="stat">Level 5 Energy Shield (20 Charges)</div>
+    <div class="stat">+3-4 Mana After Each Kill</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Mage Plate</div>
+    <div class="stat">+1.5 Mana per Level</div>
+    <div class="stat">15-20% Damage Taken Goes to Mana</div>
+    <div class="stat">+4-5 to Energy Shield</div>
+    <div class="stat">+5-7 Mana After Each Kill</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Archon Plate</div>
+    <div class="stat">+2 Mana per Level</div>
+    <div class="stat">20-25% Damage Taken Goes to Mana</div>
+    <div class="stat">+8-10 to Energy Shield</div>
+    <div class="stat">+8-10 Mana After Each Kill</div>
+  </div>
+</div>
+<div class="page-break"></div>
+
+# Act 5 - Sharptooth Slayer
+<div class="item-name-container">
+  <span class="item-name">Sharptooth's Drip</span>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Kris</div>
+    <div class="stat">50% Chance of Open Wounds</div>
+    <div class="stat">Adds 333 Poison Damage over 20 Seconds</div>
+    <div class="stat">+8-10 to Poison Dagger</div>
+    <div class="stat">-4-7% to Enemy Poison Resistance</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Cinquedeas</div>
+    <div class="stat">50% Chance of Open Wounds</div>
+    <div class="stat">Adds 666 Poison Damage over 20 Seconds</div>
+    <div class="stat">+11-15 to Poison Dagger</div>
+    <div class="stat">-7-10% to Enemy Poison Resistance</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Fanged Knife</div>
+    <div class="stat">50% Chance of Open Wounds</div>
+    <div class="stat">Adds 1335 Poison Damage over 20 Seconds</div>
+    <div class="stat">+15-20 to Poison Dagger</div>
+    <div class="stat">-10-15% to Enemy Poison Resistance</div>
+  </div>
+</div>
+<div class="page-break"></div>
+
+# Act 5 - Eyeback the Unleashed
+<div class="item-name-container">
+  <span class="item-name">Eyeback's Burial</span>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Amulet</div>
+    <div class="stat">+4-5 to Poison Creeper</div>
+    <div class="stat">+75-100% Damage to Undead</div>
+    <div class="stat">All Resistances +10-15</div>
+    <div class="stat">Slain Monsters Rest in Peace</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Amulet</div>
+    <div class="stat">+8-10 to Poison Creeper</div>
+    <div class="stat">+100-125% Damage to Undead</div>
+    <div class="stat">All Resistances +16-20</div>
+    <div class="stat">Slain Monsters Rest in Peace</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Amulet</div>
+    <div class="stat">+10-15 to Poison Creeper</div>
+    <div class="stat">+125-150% Damage to Undead</div>
+    <div class="stat">All Resistances +20-25</div>
+    <div class="stat">Slain Monsters Rest in Peace</div>
+  </div>
+</div>
+<div class="page-break"></div>
+
+# Act 5 - Thresh Socket
+<div class="item-name-container">
+  <span class="item-name">Thresh Socket's War Harness</span>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Gothic Plate</div>
+    <div class="stat">+40-50 to Strength</div>
+    <div class="stat">+1% Crushing Blow per 8 Points in Strength</div>
+    <div class="stat">+1% Deadly Strike per 8 Points in Strength</div>
+    <div class="stat">+1 to Minimum Damage per 2 Points in Strength</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Embossed Plate</div>
+    <div class="stat">+50-70 to Strength</div>
+    <div class="stat">+1% Crushing Blow per 8 Points in Strength</div>
+    <div class="stat">+1% Deadly Strike per 8 Points in Strength</div>
+    <div class="stat">+1 to Minimum Damage per 2 Points in Strength</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Lacquered Plate</div>
+    <div class="stat">+70-100 to Strength</div>
+    <div class="stat">+1% Crushing Blow per 8 Points in Strength</div>
+    <div class="stat">+1% Deadly Strike per 8 Points in Strength</div>
+    <div class="stat">+1 to Minimum Damage per 2 Points in Strength</div>
+  </div>
+</div>
+<div class="page-break"></div>
+
+# Act 5 - Frozenstein
+<div class="item-name-container">
+  <span class="item-name">Frozenstein's Form</span>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Chain Mail</div>
+    <div class="stat">Cold Resistance +40-50%</div>
+    <div class="stat">+4-5 to Werebear</div>
+    <div class="stat">+4-5 to Maul</div>
+    <div class="stat">Adds 15-20 Cold Damage</div>
+    <div class="stat">Freezes Target +1</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Mesh Armor</div>
+    <div class="stat">Cold Resistance +50-60%</div>
+    <div class="stat">+8-10 to Werebear</div>
+    <div class="stat">+8-10 to Maul</div>
+    <div class="stat">Adds 30-45 Cold Damage</div>
+    <div class="stat">Freezes Target +1</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Boneweave</div>
+    <div class="stat">Cold Resistance +60-75%</div>
+    <div class="stat">+10-15 to Werebear</div>
+    <div class="stat">+10-15 to Maul</div>
+    <div class="stat">Adds 55-70 Cold Damage</div>
+    <div class="stat">Freezes Target +1</div>
+  </div>
+</div>
+<div class="page-break"></div>
+
+# Act 5 - Bonesaw Breaker
+<div class="item-name-container">
+  <span class="item-name">Bonesaw's Advance</span>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Bone Shield</div>
+    <div class="stat">+8-10 to Charge</div>
+    <div class="stat">3-4% Mana Stolen Per Hit</div>
+    <div class="stat">8-12% Chance of Crushing Blow</div>
+    <div class="stat">+20-25% Faster Block Rate</div>
+    <div class="stat">Damage Reduced by 8-12%</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Grim Shield</div>
+    <div class="stat">+10-12 to Charge</div>
+    <div class="stat">3-5% Mana Stolen Per Hit</div>
+    <div class="stat">10-15% Chance of Crushing Blow</div>
+    <div class="stat">+25-30% Faster Block Rate</div>
+    <div class="stat">Damage Reduced by 10-15%</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Troll Nest</div>
+    <div class="stat">+12-15 to Charge</div>
+    <div class="stat">4-6% Mana Stolen Per Hit</div>
+    <div class="stat">15-20% Chance of Crushing Blow</div>
+    <div class="stat">+30-40% Faster Block Rate</div>
+    <div class="stat">Damage Reduced by 15-20%</div>
+  </div>
+</div>
+<div class="page-break"></div>
+
+# Act 5 - Snapchip Shatter
+<div class="item-name-container">
+  <span class="item-name">Snapchip's Soul</span>
+  <div class="soul-description">Cube with Any Armor -> Freeze Resistance Armor</div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="stat">Half Freeze Duration</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="stat">Cannot be Frozen</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="stat">Cannot be Frozen</div>
+    <div class="stat">+10 Cold Absorb</div>
+  </div>
+</div>
+<div class="page-break"></div>
+
+# Act 5 - Baal
+<div class="item-name-container">
+  <span class="item-name">Baal's Mastery</span>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Normal</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Large Charm</div>
+    <div class="stat">+1 to All Skills</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Nightmare</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Large Charm</div>
+    <div class="stat">+2 to All Skills</div>
+  </div>
+</div>
+
+<div class="item-container">
+  <div class="difficulty-level"><strong>Hell</strong></div>
+  <div class="item-stats">
+    <div class="item-name">Large Charm</div>
+    <div class="stat">+3 to All Skills</div>
+  </div>
+</div>
+<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>

@@ -676,5 +676,8 @@
   { "ka3": { "asset": "body_part/spleen" } },
   { "hh1": { "asset": "body_part/spleen" } },
   { "hh2": { "asset": "body_part/spleen" } },
-  { "hh3": { "asset": "body_part/spleen" } }
+  { "hh3": { "asset": "body_part/spleen" } },
+  { "sc1": { "asset": "body_part/spleen" } },
+  { "sc2": { "asset": "body_part/spleen" } },
+  { "sc3": { "asset": "body_part/spleen" } }
 ]
