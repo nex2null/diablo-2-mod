@@ -851,129 +851,129 @@ Uber Izual			1	1024				0	mbr	1																						0
 Pandemonium Key A			1	1024				0	pk1	1																						0
 Pandemonium Key B			1	1024				0	pk2	1																						0
 Pandemonium Key C			1	1024				0	pk3	1																						0
-Corpsefire			-2					0	"gld,mul=1280"	1	Corpsefire's Rags1	1																				0
-Corpsefire (N)			1					0	Act 1 (N) Super A	7	Corpsefire's Rags2	1																				0
-Corpsefire (H)			1					0	Act 1 (H) Super A	7	Corpsefire's Rags3	1																				0
-Bishibosh			1					0	Act 1 Super A	7	Bishibosh's Staff1	1																				0
-Bishibosh (N)			1					0	Act 1 (N) Super A	7	Bishibosh's Staff2	1																				0
-Bishibosh (H)			1					0	Act 1 (H) Super A	7	Bishibosh's Staff3	1																				0
-Rakanishu			1					0	Act 1 Super B	7	Wrapanishu1	1																				0
-Rakanishu (N)			1					0	Act 1 (N) Super B	7	Wrapanishu2	1																				0
-Rakanishu (H)			1					0	Act 1 (H) Super B	7	Wrapanishu3	1																				0
-Coldcrow			1					0	Act 1 Super A	7	Coldcrow's Quiver1	1																				0
-Coldcrow (N)			1					0	Act 1 (N) Super A	7	Coldcrow's Quiver2	1																				0
-Coldcrow (H)			1					0	Act 1 (H) Super A	7	Coldcrow's Quiver3	1																				0
-Bonebreak			1					0	Act 1 Super A	5	Bonebreak's Mace1	1																				0
-Bonebreak (N)			1					0	Act 1 (N) Super A	7	Bonebreak's Mace2	1																				0
-Bonebreak (H)			1					0	Act 1 (H) Super A	7	Bonebreak's Mace3	1																				0
-Blood Raven			1					0	Blood Raven1	7	Brooch of the Raven1	1																				0
-Blood Raven (N)			1					0	Blood Raven (N)1	7	Brooch of the Raven2	1																				0
-Blood Raven (H)			1					0	Blood Raven (H)1	7	Brooch of the Raven3	1																				0
-Treehead Woodfist			1					0	Act 1 Super B	7	tw1	1																				0
-Treehead Woodfist (N)			1					0	Act 1 (N) Super B	7	tw2	1																				0
-Treehead Woodfist (H)			1					0	Act 1 (H) Super B	7	tw3	1																				0
-Griswold			1					0	Griswold1	7	Griswold's Gloves1	1																				0
-Griswold (N)			1					0	Griswold (N)1	7	Griswold's Gloves2	1																				0
-Griswold (H)			1					0	Griswold (H)1	7	Griswold's Gloves3	1																				0
-Smith			1					0	Smith1	7	The Smith's Shield1	1																				0
-Smith (N)			1					0	Smith (N)1	7	The Smith's Shield2	1																				0
-Smith (H)			1					0	Smith (H)1	7	The Smith's Shield3	1																				0
-Fouldog			1					0	Act 1 Super B	7	Fouldog's Wand1	1																				0
-Fouldog (N)			1					0	Act 1 (N) Super B	7	Fouldog's Wand2	1																				0
-Fouldog (H)			1					0	Act 1 (H) Super B	7	Fouldog's Wand3	1																				0
-Boneash			1					0	Act 1 Super C	7	Bone Ash's Ring1	1																				0
-Boneash (N)			1					0	Act 1 (N) Super C	7	Bone Ash's Ring2	1																				0
-Boneash (H)			1					0	Act 1 (H) Super C	7	Bone Ash's Ring3	1																				0
-Andarielq			1					0	Andarielq1	7	Andariel's Charm1	1																				0
-Andarielq (N)			1					0	Andarielq (N)1	7	Andariel's Charm2	1																				0
-Andarielq (H)			1					0	Andarielq (H)1	7	Andariel's Charm3	1																				0
-Radament			1					0	Radament1	7	Radament's Amulet1	1																				0
-Radament (N)			1					0	Radament (N)1	7	Radament's Amulet2	1																				0
-Radament (H)			1					0	Radament (H)1	7	Radament's Amulet3	1																				0
-Creeping Feature			1					0	Act 2 Super A	7	cf1	1																				0
-Creeping Feature (N)			1					0	Act 2 (N) Super A	7	cf2	1																				0
-Creeping Feature (H)			1					0	Act 2 (H) Super A	7	cf3	1																				0
-Bloodwitch			1					0	Act 2 Super A	7	Bloodwitch's Bow1	1																				0
-Bloodwitch (N)			1					0	Act 2 (N) Super A	7	Bloodwitch's Bow2	1																				0
-Bloodwitch (H)			1					0	Act 2 (H) Super A	7	Bloodwitch's Bow3	1																				0
-Fangskin			1					0	Act 2 Super B	7	Fangskin's Belt1	1																				0
-Fangskin (N)			1					0	Act 2 (N) Super B	7	Fangskin's Belt2	1																				0
-Fangskin (H)			1					0	Act 2 (H) Super B	7	Fangskin's Belt3	1																				0
-Beetleburst			1					0	Act 2 Super B	7	bb1	1																				0
-Beetleburst (N)			1					0	Act 2 (N) Super B	7	bb2	1																				0
-Beetleburst (H)			1					0	Act 2 (H) Super B	7	bb3	1																				0
-Coldworm			1					0	Act 2 Super B	7	Coldworm's Armor1	1																				0
-Coldworm (N)			1					0	Act 2 (N) Super B	7	Coldworm's Armor2	1																				0
-Coldworm (H)			1					0	Act 2 (H) Super B	7	Coldworm's Armor3	1																				0
-Fire Eye			1					0	Act 2 Super B	7	Fire Eye's Boots1	1																				0
-Fire Eye (N)			1					0	Act 2 (N) Super B	7	Fire Eye's Boots2	1																				0
-Fire Eye (H)			1					0	Act 2 (H) Super B	7	Fire Eye's Boots3	1																				0
-Dark Elder			1					0	Act 2 Super B	7	Dark Elder's Javelin1	1																				0
-Dark Elder (N)			1					0	Act 2 (N) Super B	7	Dark Elder's Javelin2	1																				0
-Dark Elder (H)			1					0	Act 2 (H) Super B	7	Dark Elder's Javelin3	1																				0
-Summoner			1					0	Summoner1	7	The Summoner's Helm1	1																				0
-Summoner (N)			1					0	Summoner (N)1	7	The Summoner's Helm2	1																				0
-Summoner (H)			1					0	Summoner (H)1	7	The Summoner's Helm3	1																				0
-Kaa			1					0	Act 2 Super C	7	ka1	1																				0
-Kaa (N)			1					0	Act 2 (N) Super C	7	ka2	1																				0
-Kaa (H)			1					0	Act 2 (H) Super C	7	ka3	1																				0
-Duriel			1					0	Duriel1	7	Duriel's Charm1	1																				0
-Duriel (N)			1					0	Duriel (N)1	7	Duriel's Charm2	1																				0
-Duriel (H)			1					0	Duriel (H)1	7	Duriel's Charm3	1																				0
-Sszark			1					0	Act 3 Super A	7	Sszark's Axe1	1																				0
-Sszark (N)			1					0	Act 3 (N) Super A	7	Sszark's Axe2	1																				0
-Sszark (H)			1					0	Act 3 (H) Super A	7	Sszark's Axe3	1																				0
-Endugu			1					0	Act 3 Super B	7	Endugu's Gloves1	1																				0
-Endugu (N)			1					0	Act 3 (N) Super B	7	Endugu's Gloves2	1																				0
-Endugu (H)			1					0	Act 3 (H) Super B	7	Endugu's Gloves3	1																				0
-Stormtree			1					0	Act 3 Super B	7	Stormtree's Shield1	1																				0
-Stormtree (N)			1					0	Act 3 (N) Super B	7	Stormtree's Shield2	1																				0
-Stormtree (H)			1					0	Act 3 (H) Super B	7	Stormtree's Shield3	1																				0
-Sarina			1					0	Act 3 Super B	7	Battlemaid's Sword1	1																				0
-Sarina (N)			1					0	Act 3 (N) Super B	7	Battlemaid's Sword2	1																				0
-Sarina (H)			1					0	Act 3 (H) Super B	7	Battlemaid's Sword3	1																				0
-Riftwing			1					0	Act 3 Super A	7	Riftwing's Dagger1	1																				0
-Riftwing (N)			1					0	Act 3 (N) Super A	7	Riftwing's Dagger2	1																				0
-Riftwing (H)			1					0	Act 3 (H) Super A	7	Riftwing's Dagger3	1																				0
-Mephisto			1					0	Mephisto1	7	Mephisto's Charm1	1																				0
-Mephisto (N)			1					0	Mephisto (N)1	7	Mephisto's Charm1	1																				0
-Mephisto (H)			1					0	Mephisto (H)1	7	Mephisto's Charm1	1																				0
-Izual			1					0	Izual1	7	Izual's Ring1	1																				0
-Izual (N)			1					0	Izual (N)1	7	Izual's Ring2	1																				0
-Izual (H)			1					0	Izual (H)1	7	Izual's Ring3	1																				0
-Haphesto			1					0	Haphesto1	7	hh1	1																				0
-Haphesto (N)			1					0	Haphesto (N)1	7	hh2	1																				0
-Haphesto (H)			1					0	Haphesto (H)1	7	hh3	1																				0
-Diablo			1					0	Diablo1	7	Diablo's Charm1	1																				0
-Diablo (N)			1					0	Diablo (N)1	7	Diablo's Charm1	1																				0
-Diablo (H)			1					0	Diablo (H)1	7	Diablo's Charm1	1																				0
-Dac			1					0	Act 5 Super B	7	Dac's Boots1	1																				0
-Dac (N)			1					0	Act 5 (N) Super B	7	Dac's Boots2	1																				0
-Dac (H)			1					0	Act 5 (H) Super B	7	Dac's Boots3	1																				0
-Shenk			1					0	Act 5 Super A	7	Shenk's Polearm1	1																				0
-Shenk (N)			1					0	Act 5 (N) Super A	7	Shenk's Polearm2	1																				0
-Shenk (H)			1					0	Act 5 (H) Super A	7	Shenk's Polearm3	1																				0
-Eldritch			1					0	Act 5 Super A	7	Eldritch's Armor1	1																				0
-Eldritch (N)			1					0	Act 5 (N) Super A	7	Eldritch's Armor2	1																				0
-Eldritch (H)			1					0	Act 5 (H) Super A	7	Eldritch's Armor3	1																				0
-Sharptooth			1					0	Act 5 Super B	7	Sharptooth's Dagger1	1																				0
-Sharptooth (N)			1					0	Act 5 (N) Super B	7	Sharptooth's Dagger2	1																				0
-Sharptooth (H)			1					0	Act 5 (H) Super B	7	Sharptooth's Dagger3	1																				0
-Eyeback			1					0	Act 5 Super A	7	Eyeback's Amulet1	1																				0
-Eyeback (N)			1					0	Act 5 (N) Super A	7	Eyeback's Amulet2	1																				0
-Eyeback (H)			1					0	Act 5 (H) Super A	7	Eyeback's Amulet3	1																				0
-Thresh Shocket			1					0	Act 5 Super Cx	7	Thresh Socket's Armor1	1																				0
-Thresh Shocket (N)			1					0	Act 5 (N) Super Cx	7	Thresh Socket's Armor2	1																				0
-Thresh Shocket (H)			1					0	Act 5 (H) Super Cx	7	Thresh Socket's Armor3	1																				0
-Frozenstein			1					0	Act 5 Super C	7	Frozenstein's Armor1	1																				0
-Frozenstein (N)			1					0	Act 5 (N) Super C	7	Frozenstein's Armor2	1																				0
-Frozenstein (H)			1					0	Act 5 (H) Super C	7	Frozenstein's Armor3	1																				0
-Bonesaw			1					0	Act 5 Super A	7	Bonesaw's Shield1	1																				0
-Bonesaw (N)			1					0	Act 5 (N) Super A	7	Bonesaw's Shield2	1																				0
-Bonesaw (H)			1					0	Act 5 (H) Super A	7	Bonesaw's Shield3	1																				0
-Snapchip			1					0	Act 5 Super C	7	sc1	1																				0
-Snapchip (N)			1					0	Act 5 (N) Super C	7	sc2	1																				0
-Snapchip (H)			1					0	Act 5 (H) Super C	7	sc3	1																				0
-Baal			1					0	Baal1	7	Baal's Charm1	1																				0
-Baal (N)			1					0	Baal (N)1	7	Baal's Charm1	1																				0
-Baal (H)			1					0	Baal (H)1	7	Baal's Charm1	1																				0
+Corpsefire			-2					0	"gld,mul=1280"	1	Corpsefire's Rags1	1000																				0
+Corpsefire (N)			1					0	Act 1 (N) Super A	7	Corpsefire's Rags2	1000																				0
+Corpsefire (H)			1					0	Act 1 (H) Super A	7	Corpsefire's Rags3	1000																				0
+Bishibosh			1					0	Act 1 Super A	7	Bishibosh's Staff1	1000																				0
+Bishibosh (N)			1					0	Act 1 (N) Super A	7	Bishibosh's Staff2	1000																				0
+Bishibosh (H)			1					0	Act 1 (H) Super A	7	Bishibosh's Staff3	1000																				0
+Rakanishu			1					0	Act 1 Super B	7	Wrapanishu1	1000																				0
+Rakanishu (N)			1					0	Act 1 (N) Super B	7	Wrapanishu2	1000																				0
+Rakanishu (H)			1					0	Act 1 (H) Super B	7	Wrapanishu3	1000																				0
+Coldcrow			1					0	Act 1 Super A	7	Coldcrow's Quiver1	1000																				0
+Coldcrow (N)			1					0	Act 1 (N) Super A	7	Coldcrow's Quiver2	1000																				0
+Coldcrow (H)			1					0	Act 1 (H) Super A	7	Coldcrow's Quiver3	1000																				0
+Bonebreak			1					0	Act 1 Super A	5	Bonebreak's Mace1	1000																				0
+Bonebreak (N)			1					0	Act 1 (N) Super A	7	Bonebreak's Mace2	1000																				0
+Bonebreak (H)			1					0	Act 1 (H) Super A	7	Bonebreak's Mace3	1000																				0
+Blood Raven			1					0	Blood Raven1	7	Brooch of the Raven1	1000																				0
+Blood Raven (N)			1					0	Blood Raven (N)1	7	Brooch of the Raven2	1000																				0
+Blood Raven (H)			1					0	Blood Raven (H)1	7	Brooch of the Raven3	1000																				0
+Treehead Woodfist			1					0	Act 1 Super B	7	tw1	1000																				0
+Treehead Woodfist (N)			1					0	Act 1 (N) Super B	7	tw2	1000																				0
+Treehead Woodfist (H)			1					0	Act 1 (H) Super B	7	tw3	1000																				0
+Griswold			1					0	Griswold1	7	Griswold's Gloves1	1000																				0
+Griswold (N)			1					0	Griswold (N)1	7	Griswold's Gloves2	1000																				0
+Griswold (H)			1					0	Griswold (H)1	7	Griswold's Gloves3	1000																				0
+Smith			1					0	Smith1	7	The Smith's Shield1	1000																				0
+Smith (N)			1					0	Smith (N)1	7	The Smith's Shield2	1000																				0
+Smith (H)			1					0	Smith (H)1	7	The Smith's Shield3	1000																				0
+Fouldog			1					0	Act 1 Super B	7	Fouldog's Wand1	1000																				0
+Fouldog (N)			1					0	Act 1 (N) Super B	7	Fouldog's Wand2	1000																				0
+Fouldog (H)			1					0	Act 1 (H) Super B	7	Fouldog's Wand3	1000																				0
+Boneash			1					0	Act 1 Super C	7	Bone Ash's Ring1	1000																				0
+Boneash (N)			1					0	Act 1 (N) Super C	7	Bone Ash's Ring2	1000																				0
+Boneash (H)			1					0	Act 1 (H) Super C	7	Bone Ash's Ring3	1000																				0
+Andarielq			1					0	Andarielq1	7	Andariel's Charm1	1000																				0
+Andarielq (N)			1					0	Andarielq (N)1	7	Andariel's Charm2	1000																				0
+Andarielq (H)			1					0	Andarielq (H)1	7	Andariel's Charm3	1000																				0
+Radament			1					0	Radament1	7	Radament's Amulet1	1000																				0
+Radament (N)			1					0	Radament (N)1	7	Radament's Amulet2	1000																				0
+Radament (H)			1					0	Radament (H)1	7	Radament's Amulet3	1000																				0
+Creeping Feature			1					0	Act 2 Super A	7	cf1	1000																				0
+Creeping Feature (N)			1					0	Act 2 (N) Super A	7	cf2	1000																				0
+Creeping Feature (H)			1					0	Act 2 (H) Super A	7	cf3	1000																				0
+Bloodwitch			1					0	Act 2 Super A	7	Bloodwitch's Bow1	1000																				0
+Bloodwitch (N)			1					0	Act 2 (N) Super A	7	Bloodwitch's Bow2	1000																				0
+Bloodwitch (H)			1					0	Act 2 (H) Super A	7	Bloodwitch's Bow3	1000																				0
+Fangskin			1					0	Act 2 Super B	7	Fangskin's Belt1	1000																				0
+Fangskin (N)			1					0	Act 2 (N) Super B	7	Fangskin's Belt2	1000																				0
+Fangskin (H)			1					0	Act 2 (H) Super B	7	Fangskin's Belt3	1000																				0
+Beetleburst			1					0	Act 2 Super B	7	bb1	1000																				0
+Beetleburst (N)			1					0	Act 2 (N) Super B	7	bb2	1000																				0
+Beetleburst (H)			1					0	Act 2 (H) Super B	7	bb3	1000																				0
+Coldworm			1					0	Act 2 Super B	7	Coldworm's Armor1	1000																				0
+Coldworm (N)			1					0	Act 2 (N) Super B	7	Coldworm's Armor2	1000																				0
+Coldworm (H)			1					0	Act 2 (H) Super B	7	Coldworm's Armor3	1000																				0
+Fire Eye			1					0	Act 2 Super B	7	Fire Eye's Boots1	1000																				0
+Fire Eye (N)			1					0	Act 2 (N) Super B	7	Fire Eye's Boots2	1000																				0
+Fire Eye (H)			1					0	Act 2 (H) Super B	7	Fire Eye's Boots3	1000																				0
+Dark Elder			1					0	Act 2 Super B	7	Dark Elder's Javelin1	1000																				0
+Dark Elder (N)			1					0	Act 2 (N) Super B	7	Dark Elder's Javelin2	1000																				0
+Dark Elder (H)			1					0	Act 2 (H) Super B	7	Dark Elder's Javelin3	1000																				0
+Summoner			1					0	Summoner1	7	The Summoner's Helm1	1000																				0
+Summoner (N)			1					0	Summoner (N)1	7	The Summoner's Helm2	1000																				0
+Summoner (H)			1					0	Summoner (H)1	7	The Summoner's Helm3	1000																				0
+Kaa			1					0	Act 2 Super C	7	ka1	1000																				0
+Kaa (N)			1					0	Act 2 (N) Super C	7	ka2	1000																				0
+Kaa (H)			1					0	Act 2 (H) Super C	7	ka3	1000																				0
+Duriel			1					0	Duriel1	7	Duriel's Charm1	1000																				0
+Duriel (N)			1					0	Duriel (N)1	7	Duriel's Charm2	1000																				0
+Duriel (H)			1					0	Duriel (H)1	7	Duriel's Charm3	1000																				0
+Sszark			1					0	Act 3 Super A	7	Sszark's Axe1	1000																				0
+Sszark (N)			1					0	Act 3 (N) Super A	7	Sszark's Axe2	1000																				0
+Sszark (H)			1					0	Act 3 (H) Super A	7	Sszark's Axe3	1000																				0
+Endugu			1					0	Act 3 Super B	7	Endugu's Gloves1	1000																				0
+Endugu (N)			1					0	Act 3 (N) Super B	7	Endugu's Gloves2	1000																				0
+Endugu (H)			1					0	Act 3 (H) Super B	7	Endugu's Gloves3	1000																				0
+Stormtree			1					0	Act 3 Super B	7	Stormtree's Shield1	1000																				0
+Stormtree (N)			1					0	Act 3 (N) Super B	7	Stormtree's Shield2	1000																				0
+Stormtree (H)			1					0	Act 3 (H) Super B	7	Stormtree's Shield3	1000																				0
+Sarina			1					0	Act 3 Super B	7	Battlemaid's Sword1	1000																				0
+Sarina (N)			1					0	Act 3 (N) Super B	7	Battlemaid's Sword2	1000																				0
+Sarina (H)			1					0	Act 3 (H) Super B	7	Battlemaid's Sword3	1000																				0
+Riftwing			1					0	Act 3 Super A	7	Riftwing's Dagger1	1000																				0
+Riftwing (N)			1					0	Act 3 (N) Super A	7	Riftwing's Dagger2	1000																				0
+Riftwing (H)			1					0	Act 3 (H) Super A	7	Riftwing's Dagger3	1000																				0
+Mephisto			1					0	Mephisto1	7	Mephisto's Charm1	1000																				0
+Mephisto (N)			1					0	Mephisto (N)1	7	Mephisto's Charm1	1000																				0
+Mephisto (H)			1					0	Mephisto (H)1	7	Mephisto's Charm1	1000																				0
+Izual			1					0	Izual1	7	Izual's Ring1	1000																				0
+Izual (N)			1					0	Izual (N)1	7	Izual's Ring2	1000																				0
+Izual (H)			1					0	Izual (H)1	7	Izual's Ring3	1000																				0
+Haphesto			1					0	Haphesto1	7	hh1	1000																				0
+Haphesto (N)			1					0	Haphesto (N)1	7	hh2	1000																				0
+Haphesto (H)			1					0	Haphesto (H)1	7	hh3	1000																				0
+Diablo			1					0	Diablo1	7	Diablo's Charm1	1000																				0
+Diablo (N)			1					0	Diablo (N)1	7	Diablo's Charm1	1000																				0
+Diablo (H)			1					0	Diablo (H)1	7	Diablo's Charm1	1000																				0
+Dac			1					0	Act 5 Super B	7	Dac's Boots1	1000																				0
+Dac (N)			1					0	Act 5 (N) Super B	7	Dac's Boots2	1000																				0
+Dac (H)			1					0	Act 5 (H) Super B	7	Dac's Boots3	1000																				0
+Shenk			1					0	Act 5 Super A	7	Shenk's Polearm1	1000																				0
+Shenk (N)			1					0	Act 5 (N) Super A	7	Shenk's Polearm2	1000																				0
+Shenk (H)			1					0	Act 5 (H) Super A	7	Shenk's Polearm3	1000																				0
+Eldritch			1					0	Act 5 Super A	7	Eldritch's Armor1	1000																				0
+Eldritch (N)			1					0	Act 5 (N) Super A	7	Eldritch's Armor2	1000																				0
+Eldritch (H)			1					0	Act 5 (H) Super A	7	Eldritch's Armor3	1000																				0
+Sharptooth			1					0	Act 5 Super B	7	Sharptooth's Dagger1	1000																				0
+Sharptooth (N)			1					0	Act 5 (N) Super B	7	Sharptooth's Dagger2	1000																				0
+Sharptooth (H)			1					0	Act 5 (H) Super B	7	Sharptooth's Dagger3	1000																				0
+Eyeback			1					0	Act 5 Super A	7	Eyeback's Amulet1	1000																				0
+Eyeback (N)			1					0	Act 5 (N) Super A	7	Eyeback's Amulet2	1000																				0
+Eyeback (H)			1					0	Act 5 (H) Super A	7	Eyeback's Amulet3	1000																				0
+Thresh Shocket			1					0	Act 5 Super Cx	7	Thresh Socket's Armor1	1000																				0
+Thresh Shocket (N)			1					0	Act 5 (N) Super Cx	7	Thresh Socket's Armor2	1000																				0
+Thresh Shocket (H)			1					0	Act 5 (H) Super Cx	7	Thresh Socket's Armor3	1000																				0
+Frozenstein			1					0	Act 5 Super C	7	Frozenstein's Armor1	1000																				0
+Frozenstein (N)			1					0	Act 5 (N) Super C	7	Frozenstein's Armor2	1000																				0
+Frozenstein (H)			1					0	Act 5 (H) Super C	7	Frozenstein's Armor3	1000																				0
+Bonesaw			1					0	Act 5 Super A	7	Bonesaw's Shield1	1000																				0
+Bonesaw (N)			1					0	Act 5 (N) Super A	7	Bonesaw's Shield2	1000																				0
+Bonesaw (H)			1					0	Act 5 (H) Super A	7	Bonesaw's Shield3	1000																				0
+Snapchip			1					0	Act 5 Super C	7	sc1	1000																				0
+Snapchip (N)			1					0	Act 5 (N) Super C	7	sc2	1000																				0
+Snapchip (H)			1					0	Act 5 (H) Super C	7	sc3	1000																				0
+Baal			1					0	Baal1	7	Baal's Charm1	1000																				0
+Baal (N)			1					0	Baal (N)1	7	Baal's Charm1	1000																				0
+Baal (H)			1					0	Baal (H)1	7	Baal's Charm1	1000																				0

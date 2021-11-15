@@ -230,3 +230,4 @@ showitems	0	0	0	0	2	SkillNameShowItems	SkillDescShowItems	SkillDescShowItems	Ski
 runtoggle	0	0	0	0	2	SkillNameRunToggle	SkillDescRunToggle	SkillDescRunToggle	SkillNameRunToggle																																																																																																											0
 lethargy	0	0	0	0	0	SkillNameLethargy	SkillNameLethargy	SkillNameLethargy	SkillNameLethargy																																																																																																											0
 blade spray	0	0	0	0	0	SkillNameBladeSpray	SkillNameBladeSpray	SkillNameBladeSpray	SkillNameBladeSpray																																																																																																											0
+warp	0	0	0	0	36	SkillNameWarp	skillld54	skillld54	SkillNameWarp																	36	StrSkill3		"max(usmc, 1)"	256																																																																																						0
