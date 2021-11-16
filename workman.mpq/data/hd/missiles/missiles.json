@@ -697,5 +697,6 @@
   "strafebolt": "x_bow_bolt",
   "recklessattacksmissile": "expansion_shockwave",
   "bladespray": "null",
-  "bladespraysub": "missile_hand_axe"
+  "bladespraysub": "missile_hand_axe",
+  "martyrdom": "warcry_shockwave"
 }
