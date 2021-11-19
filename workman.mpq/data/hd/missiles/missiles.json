@@ -698,5 +698,6 @@
   "recklessattacksmissile": "expansion_shockwave",
   "bladespray": "null",
   "bladespraysub": "missile_hand_axe",
-  "martyrdom": "warcry_shockwave"
+  "martyrdom": "warcry_shockwave",
+  "icehydra": "icebolt"
 }

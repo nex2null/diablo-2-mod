@@ -22,3 +22,4 @@ hydra		0		1
 bloodgolem		0	1		1	1	1	StrUI0	1	3	bloodgolumicon	290	bloodgolumicon						
 claygolem		0	1		1	1	1	StrUI0	1	3	earthgolumicon	289	earthgolumicon						
 firegolem		0	1		1	1	1	StrUI0	1	3	firegolumicon	292	firegolumicon						
+icehydra		0		1															
