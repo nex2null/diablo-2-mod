@@ -15,7 +15,11 @@ Sorceress:
 5. Blaze receives additional Synergy Bonuses from Inferno.
 6. Firewall Receives additional Synergy Bonuses from Inferno and Blaze.
 7. Enchant recieves Synergy Bonuses from Warmth and Inferno.
-8. Hydra has improved Synergy Bonuses from Fire Bolt and Fire Ball.
+8. Added Ice Hydra. Hydra and Ice Hydra now synergize with each other. Moved Hydra to Level 24.
+9. Added Hydra Mastery. Applies a damaging aura to hydras
+   - Hydra receives an aura equivalent to Holy Fire, but with double damage
+   - Ice Hydra receives an aura equivalent to Holy Freeze, but with half the freeze effect
+   - The levels of the auras on the hydras are equal to the level of Hydra Mastery
 
 Necromancer:
 1. All curses now gain additional radius per skill level.
@@ -30,6 +34,7 @@ Paladin:
 1. Salvation receives Synergy Bonuses from Prayer.
 2. Concentration gives 100% chance of attack not being interrupted.
 3. Conversion has increased duration per skill point.
+4. Added Martyrdom, a skill that uses the Paladin's life as a damage resource.
 
 Barbarian:
 1. Shout starts with a 1 minute duration at skill level 1.
