@@ -35461,4 +35461,38 @@
     "ruRU": "",
     "zhCN": ""
   },
+  {
+    "id": 50010,
+    "Key": "SkillNameHydraMastery",
+    "enUS": "Hydra Mastery",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
+  {
+    "id": 50011,
+    "Key": "SkillDescriptionHydraMastery",
+    "enUS": "Passive - Provides Hydras With A Damaging Aura",
+    "zhTW": "",
+    "deDE": "",
+    "esES": "",
+    "frFR": "",
+    "itIT": "",
+    "koKR": "",
+    "plPL": "",
+    "esMX": "",
+    "jaJP": "",
+    "ptBR": "",
+    "ruRU": "",
+    "zhCN": ""
+  },
 ]
