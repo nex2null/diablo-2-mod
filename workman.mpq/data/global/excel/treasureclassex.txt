@@ -19,43 +19,43 @@ Hpotion 4			1						hp3	1	hp4	4	hp5	3	mp4	2	mp5	2	rvs	1												0
 Hpotion 5			1						hp3	1	hp4	4	hp5	4	mp5	4	rvs	1														0
 Hpotion 6			1						hp4	4	hp5	6	mp4	2	mp5	4	rvs	1														0
 Potion 1			1						hp1	12	hp2	4	mp1	5	mp2	4	rvs	1	vps	4												0
-Potion 2			1						hp1	4	hp2	8	hp3	5	mp2	2	mp3	5	rvs	1	vps	2	yps	3	wms	1						0
-Potion 3			1						hp2	6	hp3	6	hp4	4	mp3	3	mp4	3	rvs	1	vps	2	yps	2	wms	1						0
-Potion 4			1						hp3	6	hp4	6	hp5	4	mp4	3	mp5	3	rvs	1	vps	2	yps	2	wms	1						0
-Potion 5			1						hp3	4	hp4	6	hp5	6	mp5	5	rvs	1	vps	2	yps	2	wms	1								0
-Potion 6			1						hp4	6	hp5	8	mp4	1	mp5	5	rvs	1	vps	2	yps	2	wms	1								0
+Potion 2			1						hp1	4	hp2	8	hp3	5	mp2	2	mp3	5	rvs	1	vps	0	yps	0	wms	0						0
+Potion 3			1						hp2	6	hp3	6	hp4	4	mp3	3	mp4	3	rvs	1	vps	0	yps	0	wms	0						0
+Potion 4			1						hp3	6	hp4	6	hp5	4	mp4	3	mp5	3	rvs	1	vps	0	yps	0	wms	0						0
+Potion 5			1						hp3	4	hp4	6	hp5	6	mp5	5	rvs	1	vps	0	yps	0	wms	0								0
+Potion 6			1						hp4	6	hp5	8	mp4	1	mp5	5	rvs	1	vps	0	yps	0	wms	0								0
 Runes 1			1						r01	3	r02	2																				0
-Runes 2			1						r03	3	r04	2	Runes 1	2																		0
-Runes 3			1						r05	3	r06	2	Runes 2	5																		0
-Runes 4			1						r07	3	r08	2	Runes 3	7																		0
-Runes 5			1						r09	3	r10	2	Runes 4	12																		0
-Runes 6			1						r11	3	r12	2	Runes 5	22																		0
-Runes 7			1						r13	3	r14	2	Runes 6	45																		0
-Runes 8			1						r15	3	r16	2	Runes 7	90																		0
-Runes 9			1						r17	3	r18	2	Runes 8	180																		0
-Runes 10			1						r19	3	r20	2	Runes 9	360																		0
-Runes 11			1						r21	3	r22	2	Runes 10	720																		0
-Runes 12			1						r23	3	r24	2	Runes 11	1066																		0
-Runes 13			1						r25	3	r26	2	Runes 12	1519																		0
-Runes 14			1						r27	3	r28	2	Runes 13	2170																		0
-Runes 15			1						r29	3	r30	2	Runes 14	2941																		0
-Runes 16			1						r31	3	r32	2	Runes 15	3957																		0
-Runes 17			1						r33	1	Runes 16	5170																				0
-Act 1 Junk			1						Potion 1	8	Misc 0	4	Ammo	4																		0
-Act 2 Junk			1						Act 1 Junk	2	Potion 2	8	Misc 0	4	Ammo	4																0
-Act 3 Junk			1						Act 2 Junk	2	Potion 3	8	Misc 1	4	Ammo	4																0
-Act 4 Junk			1						Act 3 Junk	2	Potion 4	8	Misc 1	4	Ammo	4																0
-Act 5 Junk			1						Act 4 Junk	2	Potion 5	8	Misc 2	4	Ammo	4																0
-Act 1 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 2 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 3 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 4 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 5 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 1 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 2 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 3 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 4 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
-Act 5 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
+Runes 2			1						r03	15	r04	10	Runes 1	2																		0
+Runes 3			1						r05	15	r06	10	Runes 2	5																		0
+Runes 4			1						r07	15	r08	10	Runes 3	7																		0
+Runes 5			1						r09	15	r10	10	Runes 4	12																		0
+Runes 6			1						r11	15	r12	10	Runes 5	22																		0
+Runes 7			1						r13	15	r14	10	Runes 6	45																		0
+Runes 8			1						r15	15	r16	10	Runes 7	90																		0
+Runes 9			1						r17	15	r18	10	Runes 8	180																		0
+Runes 10			1						r19	15	r20	10	Runes 9	360																		0
+Runes 11			1						r21	15	r22	10	Runes 10	720																		0
+Runes 12			1						r23	15	r24	10	Runes 11	1066																		0
+Runes 13			1						r25	15	r26	10	Runes 12	1519																		0
+Runes 14			1						r27	15	r28	10	Runes 13	2170																		0
+Runes 15			1						r29	15	r30	10	Runes 14	2941																		0
+Runes 16			1						r31	15	r32	10	Runes 15	3957																		0
+Runes 17			1						r33	10	Runes 16	5170																				0
+Act 1 Junk			1					4	Potion 1	8	Misc 0	4	Ammo	0																		0
+Act 2 Junk			1					4	Act 1 Junk	2	Potion 2	8	Misc 0	4	Ammo	0																0
+Act 3 Junk			1					4	Act 2 Junk	2	Potion 3	8	Misc 1	4	Ammo	0																0
+Act 4 Junk			1					4	Act 3 Junk	2	Potion 4	8	Misc 1	4	Ammo	0																0
+Act 5 Junk			1					4	Act 4 Junk	2	Potion 5	8	Misc 2	4	Ammo	0																0
+Act 1 (N) Junk			1					8	Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	0																0
+Act 2 (N) Junk			1					8	Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	0																0
+Act 3 (N) Junk			1					8	Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	0																0
+Act 4 (N) Junk			1					8	Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	0																0
+Act 5 (N) Junk			1					8	Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	0																0
+Act 1 (H) Junk			1					12	Act 5 Junk	2	Potion 6	12	Misc 2	4	Ammo	0																0
+Act 2 (H) Junk			1					12	Act 5 Junk	2	Potion 6	12	Misc 2	4	Ammo	0																0
+Act 3 (H) Junk			1					12	Act 5 Junk	2	Potion 6	12	Misc 2	4	Ammo	0																0
+Act 4 (H) Junk			1					12	Act 5 Junk	2	Potion 6	12	Misc 2	4	Ammo	0																0
+Act 5 (H) Junk			1					12	Act 5 Junk	2	Potion 6	12	Misc 2	4	Ammo	0																0
 Act 1 Equip A	1	0	1						weap3	7	armo3	7																				0
 Act 1 Equip B	1	5	1						weap3	3	armo3	3	weap6	7	armo6	7																0
 Act 1 Equip C	1	9	1						weap3	2	armo3	1	weap6	6	armo6	3	weap9	14	armo9	7	weap12	2	armo12	1								0
@@ -208,21 +208,21 @@ Act 4 (H) Magic B	4	80	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic A	4	82	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic B	4	83	1						tsc	2	isc	4	mp4	2	mp5	4																0
 Act 5 (H) Magic C	4	85	1						tsc	2	isc	4	mp4	2	mp5	4																0
-Act 1 Good	5	0	1						Jewelry A	5	Chipped Gem	5																				0
-Act 2 Good	5	12	1						Jewelry B	20	Chipped Gem	12	Flawed Gem	4	Runes 1	3	Runes 2	3														0
-Act 3 Good	5	18	1						Jewelry C	20	Chipped Gem	8	Flawed Gem	8	Runes 3	3	Runes 4	3														0
-Act 4 Good	5	26	1						Jewelry C	50	Chipped Gem	14	Flawed Gem	28	Normal Gem	42	Runes 5	14	Runes 6	7												0
-Act 5 Good	5	32	1						Jewelry C	50	Chipped Gem	6	Flawed Gem	8	Normal Gem	24	Flawless Gem	4	Runes 7	10												0
-Act 1 (N) Good	5	38	1						Jewelry C	60	Chipped Gem	6	Flawed Gem	8	Normal Gem	28	Flawless Gem	14	Runes 8	14												0
-Act 2 (N) Good	5	42	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 9	14												0
-Act 3 (N) Good	5	46	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 10	14												0
-Act 4 (N) Good	5	51	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 11	14												0
-Act 5 (N) Good	5	57	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 12	14												0
-Act 1 (H) Good	5	66	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 13	14												0
-Act 2 (H) Good	5	72	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 14	14												0
-Act 3 (H) Good	5	78	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 15	14												0
-Act 4 (H) Good	5	82	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 16	14												0
-Act 5 (H) Good	5	85	1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 17	14												0
+Act 1 Good	5	0	1						Jewelry A	10	Chipped Gem	10	Runes 1	6	Runes 2	3																0
+Act 2 Good	5	12	1						Jewelry B	20	Chipped Gem	12	Flawed Gem	4	Runes 1	9	Runes 2	6														0
+Act 3 Good	5	18	1						Jewelry C	20	Chipped Gem	8	Flawed Gem	8	Runes 3	9	Runes 4	6														0
+Act 4 Good	5	26	1						Jewelry C	50	Chipped Gem	14	Flawed Gem	28	Normal Gem	42	Runes 5	42	Runes 6	21												0
+Act 5 Good	5	32	1						Jewelry C	50	Chipped Gem	6	Flawed Gem	8	Normal Gem	24	Flawless Gem	4	Runes 7	30												0
+Act 1 (N) Good	5	38	1						Jewelry C	60	Chipped Gem	0	Flawed Gem	8	Normal Gem	28	Flawless Gem	14	Runes 8	42												0
+Act 2 (N) Good	5	42	1						Jewelry C	60	Chipped Gem	0	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 9	42												0
+Act 3 (N) Good	5	46	1						Jewelry C	60	Chipped Gem	0	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 10	42												0
+Act 4 (N) Good	5	51	1						Jewelry C	60	Chipped Gem	0	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 11	42												0
+Act 5 (N) Good	5	57	1						Jewelry C	60	Chipped Gem	0	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 12	42												0
+Act 1 (H) Good	5	66	1						Jewelry C	60	Chipped Gem	0	Flawed Gem	0	Normal Gem	14	Flawless Gem	28	Runes 13	42												0
+Act 2 (H) Good	5	72	1						Jewelry C	60	Chipped Gem	0	Flawed Gem	0	Normal Gem	35	Flawless Gem	28	Runes 14	42												0
+Act 3 (H) Good	5	78	1						Jewelry C	60	Chipped Gem	0	Flawed Gem	0	Normal Gem	35	Flawless Gem	28	Runes 15	42												0
+Act 4 (H) Good	5	82	1						Jewelry C	60	Chipped Gem	0	Flawed Gem	0	Normal Gem	35	Flawless Gem	28	Runes 16	42												0
+Act 5 (H) Good	5	85	1						Jewelry C	60	Chipped Gem	0	Flawed Gem	0	Normal Gem	35	Flawless Gem	28	Runes 17	42												0
 Act 1 Chest A	6	0	4					100	gld	15	Act 1 Junk	15	Act 1 Equip A	10	Act 1 Good	2																0
 Act 1 Chest B	6	5	4					100	gld	15	Act 1 Junk	15	Act 1 Equip B	10	Act 1 Good	2																0
 Act 1 Chest C	6	9	4					100	gld	15	Act 1 Junk	12	Act 2 Junk	3	Act 1 Equip C	15	Act 1 Good	2														0
@@ -885,8 +885,8 @@ Boneash			1					0	Act 1 Super C	7	Bone Ash's Ring1	1000																				0
 Boneash (N)			1					0	Act 1 (N) Super C	7	Bone Ash's Ring2	1000																				0
 Boneash (H)			1					0	Act 1 (H) Super C	7	Bone Ash's Ring3	1000																				0
 Andarielq			1					0	Andarielq1	7	Andariel's Charm1	1000																				0
-Andarielq (N)			1					0	Andarielq (N)1	7	Andariel's Charm2	1000																				0
-Andarielq (H)			1					0	Andarielq (H)1	7	Andariel's Charm3	1000																				0
+Andarielq (N)			1					0	Andarielq (N)1	7	al2	1000																				0
+Andarielq (H)			1					0	Andarielq (H)1	7	al3	1000																				0
 Radament			1					0	Radament1	7	Radament's Amulet1	1000																				0
 Radament (N)			1					0	Radament (N)1	7	Radament's Amulet2	1000																				0
 Radament (H)			1					0	Radament (H)1	7	Radament's Amulet3	1000																				0
@@ -918,8 +918,8 @@ Kaa			1					0	Act 2 Super C	7	ka1	1000																				0
 Kaa (N)			1					0	Act 2 (N) Super C	7	ka2	1000																				0
 Kaa (H)			1					0	Act 2 (H) Super C	7	ka3	1000																				0
 Duriel			1					0	Duriel1	7	Duriel's Charm1	1000																				0
-Duriel (N)			1					0	Duriel (N)1	7	Duriel's Charm2	1000																				0
-Duriel (H)			1					0	Duriel (H)1	7	Duriel's Charm3	1000																				0
+Duriel (N)			1					0	Duriel (N)1	7	dl2	1000																				0
+Duriel (H)			1					0	Duriel (H)1	7	dl3	1000																				0
 Sszark			1					0	Act 3 Super A	7	Sszark's Axe1	1000																				0
 Sszark (N)			1					0	Act 3 (N) Super A	7	Sszark's Axe2	1000																				0
 Sszark (H)			1					0	Act 3 (H) Super A	7	Sszark's Axe3	1000																				0
@@ -936,8 +936,8 @@ Riftwing			1					0	Act 3 Super A	7	Riftwing's Dagger1	1000																				0
 Riftwing (N)			1					0	Act 3 (N) Super A	7	Riftwing's Dagger2	1000																				0
 Riftwing (H)			1					0	Act 3 (H) Super A	7	Riftwing's Dagger3	1000																				0
 Mephisto			1					0	Mephisto1	7	Mephisto's Charm1	1000																				0
-Mephisto (N)			1					0	Mephisto (N)1	7	Mephisto's Charm1	1000																				0
-Mephisto (H)			1					0	Mephisto (H)1	7	Mephisto's Charm1	1000																				0
+Mephisto (N)			1					0	Mephisto (N)1	7	mo2	1000																				0
+Mephisto (H)			1					0	Mephisto (H)1	7	mo3	1000																				0
 Izual			1					0	Izual1	7	Izual's Ring1	1000																				0
 Izual (N)			1					0	Izual (N)1	7	Izual's Ring2	1000																				0
 Izual (H)			1					0	Izual (H)1	7	Izual's Ring3	1000																				0
@@ -945,8 +945,8 @@ Haphesto			1					0	Haphesto1	7	hh1	1000																				0
 Haphesto (N)			1					0	Haphesto (N)1	7	hh2	1000																				0
 Haphesto (H)			1					0	Haphesto (H)1	7	hh3	1000																				0
 Diablo			1					0	Diablo1	7	Diablo's Charm1	1000																				0
-Diablo (N)			1					0	Diablo (N)1	7	Diablo's Charm1	1000																				0
-Diablo (H)			1					0	Diablo (H)1	7	Diablo's Charm1	1000																				0
+Diablo (N)			1					0	Diablo (N)1	7	do2	1000																				0
+Diablo (H)			1					0	Diablo (H)1	7	do3	1000																				0
 Dac			1					0	Act 5 Super B	7	Dac's Boots1	1000																				0
 Dac (N)			1					0	Act 5 (N) Super B	7	Dac's Boots2	1000																				0
 Dac (H)			1					0	Act 5 (H) Super B	7	Dac's Boots3	1000																				0
@@ -975,5 +975,5 @@ Snapchip			1					0	Act 5 Super C	7	sc1	1000																				0
 Snapchip (N)			1					0	Act 5 (N) Super C	7	sc2	1000																				0
 Snapchip (H)			1					0	Act 5 (H) Super C	7	sc3	1000																				0
 Baal			1					0	Baal1	7	Baal's Charm1	1000																				0
-Baal (N)			1					0	Baal (N)1	7	Baal's Charm1	1000																				0
-Baal (H)			1					0	Baal (H)1	7	Baal's Charm1	1000																				0
+Baal (N)			1					0	Baal (N)1	7	bl2	1000																				0
+Baal (H)			1					0	Baal (H)1	7	bl3	1000																				0
