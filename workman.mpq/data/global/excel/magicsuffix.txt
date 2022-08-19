@@ -719,3 +719,4 @@ of Frozen Orbs	100	1	1	48		48		sor	30	2	79	death-skill	Frozen Orb	100	48								
 of Corpse Explosions	100	1	1	36		36		nec	6	2	79	death-skill	Corpse Explosion	100	36										weap	head											0	0
 of Poison Novas	100	1	1	48		48		nec	30	2	79	death-skill	Poison Nova	100	48										weap	glov	head										0	0
 of Armageddon	100	1	1	48		48		dru	30	2	79	death-skill	Armageddon	100	48										mele												0	0
+of Bones	100	1	1	1	25	1				1	80	skeleton-dmg%		25	50										amul	ring	wand	glov									0	0

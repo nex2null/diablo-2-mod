@@ -6530,7 +6530,7 @@
   {
     "id": 30125,
     "Key": "StrModSkeletonDmg",
-    "enUS": "Skeleton Damage Increased by %+d%",
+    "enUS": "Skeleton Damage Increased by %d%%",
     "zhTW": "",
     "deDE": "",
     "esES": "",
