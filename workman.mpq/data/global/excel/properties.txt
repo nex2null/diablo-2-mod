@@ -356,3 +356,4 @@ res-curse-len	1	1	curse_resistance_length			1	curse_resistance																		
 mana-kill/lvl	1	17	item_manaafterkill_perlvl																															none	0
 mana-kill/enr	1	17	item_manaafterkill_perenr																															none	0
 balance/dex	1	17	item_fasterhitrecovery_perdex																												(8ths)				0
+skeleton-dmg%	1	1	item_skeletondmg_percent																											Increase Skeleton Dmg #%		Min %	Max %		0
