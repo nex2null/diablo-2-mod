@@ -4,12 +4,10 @@
 A content / quality of life mod for Diablo 2: Resurrected
 
 ### Features:
-- Buffed run/walk speed and made walking the same speed as running.
-- Hireling stats were buffed, as well as skills being changed. See docs for skill changes.
+- Various character QOL updates (increased XP, increased mana regeneration, increased walk/run speed, start with cube, etc)
 - Many cube formulas were added. See docs for new formulas.
-- Many skills were buffed/modified. See docs for skill changes.
-- All super uniques can now be farmed for a unique item. Chances are 1 in 7,15,30 for Normal, Nightmare, and Hell respectively.
-- Added all unique/set/runeword items from Talonrage's content pack.
+- All super uniques can now be farmed for a unique item. See docs for super unique items.
+- Added all unique/set items from Talonrage's content pack.
 - New magic prefixes/suffixes from Talonrage's content pack.
 
 ### Instructions:
@@ -22,4 +20,4 @@ A content / quality of life mod for Diablo 2: Resurrected
 - Run Diablo 2 Resurrected from the shortcut. Enjoy!
 
 ### Credits:
-- Talonrage (https://d2mods.info/forum/viewtopic.php?t=36394) for unique items, new properties, new sets, new runewords, new cube recipes, and new affixes.
+- Talonrage (https://d2mods.info/forum/viewtopic.php?t=36394) for unique items, new properties, new sets, new cube recipes, and new affixes.
