@@ -460,3 +460,4 @@ curse_resistance_length	457			9											159	33		14	0	10	100																35	
 item_manaafterkill_perlvl	458		1	7							1				17	102		7	0	2	0			2	6	level	item_manaafterkill						kill	17			16	6	1	ModStr5f	ModStr5f	increaseswithplaylevelX									0
 item_manaafterkill_perenr	459		1	7							1				17	102		7	0	2	0			2	6	energy	item_manaafterkill						kill	17			16	6	1	ModStr5f	ModStr5f	playenr									0
 item_fasterhitrecovery_perdex	460	1	1	9											3876	156		7	20	7	20			2	4	dexterity	item_fastergethitrate										142	8	1	ModStr4p	ModStr4p	playdex									0
+item_skeletondmg_percent	461			9											3876	156		9	0	9	0																142	19		StrModSkeletonDmg	StrModSkeletonDmg										0
