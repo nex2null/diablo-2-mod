@@ -696,8 +696,7 @@
   "strafearrow": "arrow",
   "strafebolt": "x_bow_bolt",
   "recklessattacksmissile": "expansion_shockwave",
+  "leapattack": "b_a_yell_shock_wave_01",
   "bladespray": "null",
-  "bladespraysub": "missile_hand_axe",
-  "martyrdom": "warcry_shockwave",
-  "icehydra": "icebolt"
+  "bladespraysub": "missile_hand_axe"
 }
