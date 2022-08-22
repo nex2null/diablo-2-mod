@@ -1434,9 +1434,9 @@ Endugu's Gloves3	1428	100	1		1		1	60	ulg	bramble mitts		5	5000	lpur	lpur						re
 Stormtree's Shield1	1429	100	1		1		1	19	spk	Spiked Shield		5	5000								aura	Thorns	8	10	thorns		25	30	light-thorns		25	30	fire-thorns		25	30	oskill	Lethargy	15	15																														0
 Stormtree's Shield2	1430	100	1		1		1	38	xpk	Barbed Shield		5	5000								aura	Thorns	12	15	oskill	Spirit of Barbs	12	15	thorns		50	75	light-thorns		50	75	fire-thorns		15	20	oskill	Lethargy	15	15																										0
 Stormtree's Shield3	1431	100	1		1		1	60	upk	Blade Barrier		5	5000								aura	Thorns	16	20	oskill	Spirit of Barbs	16	20	thorns		150	200	light-thorns		150	200	fire-thorns		15	20	oskill	Lethargy	15	15																										0
-Battlemaid's Sword1	1432	100	1		1		1	19	lsd	Long Sword		5	5000	whit	whit						att-skill	367	25	1	swing1		30	35	dmg%		50	75	ease		-50	-50																																		0
-Battlemaid's Sword2	1433	100	1		1		1	38	9ls	Rune Sword		5	5000	whit	whit						att-skill	367	25	1	oskill	Blade Shield	6	8	swing1		35	40	dmg%		100	125																																		0
-Battlemaid's Sword3	1434	100	1		1		1	60	7ls	cryptic sword		5	5000	whit	whit						att-skill	367	25	1	oskill	Blade Shield	12	14	swing1		40	45	dmg%		150	200																																		0
+Battlemaid's Sword1	1432	100	1		1		1	19	lsd	Long Sword		5	5000	whit	whit						att-skill	373	25	1	swing1		30	35	dmg%		50	75	ease		-50	-50																																		0
+Battlemaid's Sword2	1433	100	1		1		1	38	9ls	Rune Sword		5	5000	whit	whit						att-skill	373	25	1	oskill	Blade Shield	6	8	swing1		35	40	dmg%		100	125																																		0
+Battlemaid's Sword3	1434	100	1		1		1	60	7ls	cryptic sword		5	5000	whit	whit						att-skill	373	25	1	oskill	Blade Shield	12	14	swing1		40	45	dmg%		150	200																																		0
 Riftwing's Dagger1	1435	100	1		1		1	20	kri	Kris		5	5000	lyel	lyel						att-skill	240	20	3	swing1		15	20	dmg-cold		10	15	slow		25	25	stupidity		20	25																														0
 Riftwing's Dagger2	1436	100	1		1		1	39	9kr	Cinquedeas		5	5000	lyel	lyel						att-skill	245	20	5	swing1		20	25	dmg-cold		20	30	slow		25	25	stupidity		20	25																														0
 Riftwing's Dagger3	1437	100	1		1		1	60	7kr	fanged knife		5	5000	lyel	lyel						att-skill	245	20	10	swing1		25	30	dmg-cold		40	60	slow		25	25	stupidity		20	25																														0
