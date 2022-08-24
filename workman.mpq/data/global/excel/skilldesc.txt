@@ -232,3 +232,4 @@ cubeloot	0	0	0	0	2		SkillNameCubeLoot	SkillDescCubeLoot	SkillDescCubeLoot	SkillN
 warp	0	0	0	0	36		SkillNameWarp	skillld54	skillld54	SkillNameWarp																	36	StrSkill3		"max(usmc, 1)"	256																																																																																						0
 lethargy	0	0	0	0	0		SkillNameLethargy	SkillNameLethargy	SkillNameLethargy	SkillNameLethargy																																																																																																											0
 blade spray	0	0	0	0	0		SkillNameBladeSpray	SkillNameBladeSpray	SkillNameBladeSpray	SkillNameBladeSpray																																																																																																											0
+melee splash	0	0	0	0	0		SkillNameMeleeSplash	SkillNameMeleeSplash	SkillNameMeleeSplash	SkillNameMeleeSplash																																																																																																											0

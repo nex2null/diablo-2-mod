@@ -1470,3 +1470,4 @@ Bonesaw's Shield1	1464	100	1		1		1	28	bsh	Bone Shield		5	5000								oskill	Char
 Bonesaw's Shield2	1465	100	1		1		1	44	xsh	Grim Shield		5	5000								oskill	Charge	10	12	manasteal		3	5	crush		10	15	block1		25	30	red-dmg%		10	15																														0
 Bonesaw's Shield3	1466	100	1		1		1	63	ush	troll nest		5	5000								oskill	Charge	12	15	manasteal		4	6	crush		15	20	block1		30	40	red-dmg%		15	20																														0
 Baal's Charm1	1467	100	1		1		1	30	cm2	Large Charm	1	5	5000								allskills		1	1																																														0
+Charm of Splashing	1468	100	1		1		1	1	cm1	Small Charm	1										att-skill	374	100	1																																														0

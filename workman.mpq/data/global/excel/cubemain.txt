@@ -540,4 +540,4 @@ Hephasto Hell Craft	1			100	3	12	54		2	armo	hh3						"usetype,rar"		100		ac/lvl	
 Snapchip Normal Craft	1			100	4	12	41		2	armo	sc1						"usetype,rar"		100		half-freeze	100		1	1																																																																															0
 Snapchip Nightmare Craft	1			100	4	12	56		2	armo	sc2						"usetype,rar"		100		nofreeze	100		1	1																																																																															0
 Snapchip Hell Craft	1			100	3	12	54		2	armo	sc3						"usetype,rar"		100		nofreeze	100		1	1	abs-cold	100		10	10																																																																										0
-TEST	1			100					1	isc							"rin,mag,suf=721"	1																																																																																						0
+Melee Splash Charm	1			100					1	ms1							Charm of Splashing																																																																																							0

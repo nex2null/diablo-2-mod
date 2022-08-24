@@ -677,5 +677,6 @@
   { "hh3": { "asset": "body_part/spleen" } },
   { "sc1": { "asset": "body_part/spleen" } },
   { "sc2": { "asset": "body_part/spleen" } },
-  { "sc3": { "asset": "body_part/spleen" } }
+  { "sc3": { "asset": "body_part/spleen" } },
+  { "ms1": { "asset": "body_part/flag" } }
 ]
