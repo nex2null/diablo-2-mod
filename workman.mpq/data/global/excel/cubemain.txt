@@ -541,3 +541,15 @@ Snapchip Normal Craft	1			100	4	12	41		2	armo	sc1						"usetype,rar"		100		half-
 Snapchip Nightmare Craft	1			100	4	12	56		2	armo	sc2						"usetype,rar"		100		nofreeze	100		1	1																																																																															0
 Snapchip Hell Craft	1			100	3	12	54		2	armo	sc3						"usetype,rar"		100		nofreeze	100		1	1	abs-cold	100		10	10																																																																										0
 Melee Splash Charm	1			100					1	ms1							Charm of Splashing																																																																																							0
+Add 1 Socket to Weapon	1			100					2	"weap,nos"	"jew,qty=1"						"useitem"				sock			1	1																																																																															0
+Add 2 Sockets to Weapon	1			100					3	"weap,nos"	"jew,qty=2"						"useitem"				sock			2	2																																																																															0
+Add 3 Sockets to Weapon	1			100					4	"weap,nos"	"jew,qty=3"						"useitem"				sock			3	3																																																																															0
+Add 4 Sockets to Weapon	1			100					5	"weap,nos"	"jew,qty=4"						"useitem"				sock			4	4																																																																															0
+Add 5 Sockets to Weapon	1			100					6	"weap,nos"	"jew,qty=5"						"useitem"				sock			5	5																																																																															0
+Add 6 Sockets to Weapon	1			100					7	"weap,nos"	"jew,qty=6"						"useitem"				sock			6	6																																																																															0
+Add 1 Socket to Armor	1			100					2	"armo,nos"	"jew,qty=1"						"useitem"				sock			1	1																																																																															0
+Add 2 Sockets to Armor	1			100					3	"armo,nos"	"jew,qty=2"						"useitem"				sock			2	2																																																																															0
+Add 3 Sockets to Armor	1			100					4	"armo,nos"	"jew,qty=3"						"useitem"				sock			3	3																																																																															0
+Add 4 Sockets to Armor	1			100					5	"armo,nos"	"jew,qty=4"						"useitem"				sock			4	4																																																																															0
+Add 5 Sockets to Armor	1			100					6	"armo,nos"	"jew,qty=5"						"useitem"				sock			5	5																																																																															0
+Add 6 Sockets to Armor	1			100					7	"armo,nos"	"jew,qty=6"						"useitem"				sock			6	6																																																																															0
